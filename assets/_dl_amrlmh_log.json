@@ -1,0 +1,103 @@
+{
+ "started": "2026-08-16 17:31:35",
+ "items": [
+  {
+   "picid": "54419",
+   "file": "aston-martin-returns-to-le-mans-to-fight-for-overall-victory__54419__ASTON_MARTIN_RETURNS_TO_LE_MANS_TO_FIGHT_FOR_OVERALL_VICTORY_WITH_VALKYRIE_HYPER.jpg",
+   "status": "downloaded",
+   "detail": "ok 1763260B",
+   "ts": "17:31:45"
+  },
+  {
+   "picid": "54422",
+   "file": "aston-martin-returns-to-le-mans-to-fight-for-overall-victory__54422__ASTON_MARTIN_RETURNS_TO_LE_MANS_TO_FIGHT_FOR_OVERALL_VICTORY_WITH_VALKYRIE_HYPER.jpg",
+   "status": "downloaded",
+   "detail": "ok 2527687B",
+   "ts": "17:31:53"
+  },
+  {
+   "picid": "54425",
+   "file": "aston-martin-returns-to-le-mans-to-fight-for-overall-victory__54425__ASTON_MARTIN_RETURNS_TO_LE_MANS_TO_FIGHT_FOR_OVERALL_VICTORY_WITH_VALKYRIE_HYPER.jpg",
+   "status": "downloaded",
+   "detail": "ok 5295916B",
+   "ts": "17:32:01"
+  },
+  {
+   "picid": "56345",
+   "file": "aston-martin-returns-to-le-mans-with-two-valkyrie-lmh-hyperc__56345__ASTON_MARTIN_RETURNS_TO_LE_MANS_TO_FIGHT_FOR_OVERALL_VICTORY_WITH_VALKYRIE_HYPER.jpg",
+   "status": "downloaded",
+   "detail": "ok 5308678B",
+   "ts": "17:32:11"
+  },
+  {
+   "picid": "56348",
+   "file": "aston-martin-returns-to-le-mans-with-two-valkyrie-lmh-hyperc__56348__ASTON_MARTIN_RETURNS_TO_LE_MANS_TO_FIGHT_FOR_OVERALL_VICTORY_WITH_VALKYRIE_HYPER.jpg",
+   "status": "downloaded",
+   "detail": "ok 5567577B",
+   "ts": "17:32:20"
+  },
+  {
+   "picid": "56351",
+   "file": "aston-martin-returns-to-le-mans-with-two-valkyrie-lmh-hyperc__56351__ASTON_MARTIN_RETURNS_TO_LE_MANS_TO_FIGHT_FOR_OVERALL_VICTORY_WITH_VALKYRIE_HYPER.jpg",
+   "status": "downloaded",
+   "detail": "ok 5798694B",
+   "ts": "17:32:28"
+  },
+  {
+   "picid": "62483",
+   "file": "aston-martin-valkyrie-set-for-north-american-competition-deb__62483__Valkyrie_IMSA_3_4_square.jpg",
+   "status": "downloaded",
+   "detail": "ok 9189397B",
+   "ts": "17:32:37"
+  },
+  {
+   "picid": "62510",
+   "file": "aston-martin-valkyrie-set-for-north-american-competition-deb__62510__Valkyrie_IMSA_Side_16_2159.jpg",
+   "status": "downloaded",
+   "detail": "ok 42552381B",
+   "ts": "17:32:51"
+  },
+  {
+   "picid": "62513",
+   "file": "aston-martin-valkyrie-set-for-north-american-competition-deb__62513__Valkyrie_IMSA_HighSide.jpg",
+   "status": "downloaded",
+   "detail": "ok 97769911B",
+   "ts": "17:33:19"
+  },
+  {
+   "picid": "62516",
+   "file": "aston-martin-valkyrie-set-for-north-american-competition-deb__62516__Valkyrie_trio_landscape.jpg",
+   "status": "downloaded",
+   "detail": "ok 5366793B",
+   "ts": "17:33:27"
+  },
+  {
+   "picid": "62519",
+   "file": "aston-martin-valkyrie-set-for-north-american-competition-deb__62519__Valkyrie_trio.jpg",
+   "status": "downloaded",
+   "detail": "ok 5399885B",
+   "ts": "17:33:36"
+  },
+  {
+   "picid": "62522",
+   "file": "aston-martin-valkyrie-set-for-north-american-competition-deb__62522__Valkyrie_IMSA_Side.jpg",
+   "status": "downloaded",
+   "detail": "ok 97473044B",
+   "ts": "17:34:04"
+  },
+  {
+   "picid": "62627",
+   "file": "aston-martin-valkyrie-makes-solid-start-to-campaign-with-top__62627__Vantage_leads_Valkyrie.jpg",
+   "status": "downloaded",
+   "detail": "ok 16260776B",
+   "ts": "17:34:16"
+  }
+ ],
+ "finished": "2026-08-16 17:34:20",
+ "ok": 13,
+ "failed": 0,
+ "blocked": {
+  "flag": false,
+  "reason": ""
+ }
+}

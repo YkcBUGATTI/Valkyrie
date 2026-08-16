@@ -1,0 +1,1422 @@
+{
+ "valkyrie": {
+  "imgs": [
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/vantage-s-dark.png?mw=1920&rev=851afb2513f341f8acc79e06e5c4edf5&hash=6960BC06D467AFEDFC7089581B57A6C9",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/vantage-s-dark.png",
+    "rev": "851afb2513f341f8acc79e06e5c4edf5"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/vantage-s.png?mw=1920&rev=63b3f113ffca448c9d97f00c42d07365&hash=631D8658AE6899F382E264D5FBDE1E6D",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/vantage-s.png",
+    "rev": "63b3f113ffca448c9d97f00c42d07365"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/fullres/vantage-s-full-res-test.jpg?mw=1920&rev=4c57a0418bd64503b334b78ab25de58c&hash=288724556752A29D1CC9FABCF802A00D",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/fullres/vantage-s-full-res-test.jpg",
+    "rev": "4c57a0418bd64503b334b78ab25de58c"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/vantage-coupe-dark.png?mw=1920&rev=1e16f00d7d734ae4826afbdd65b216b7&hash=2E4885A05B32C178C65EE6E60CADDF51",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/vantage-coupe-dark.png",
+    "rev": "1e16f00d7d734ae4826afbdd65b216b7"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/vantage-coupe.png?mw=1920&rev=2fae92496bbd45508412f90ced71264b&hash=14CDFA09AB8433D8DB1A6834BAB3F940",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/vantage-coupe.png",
+    "rev": "2fae92496bbd45508412f90ced71264b"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/vantage-coupe-light.png?mw=1920&rev=5831230069dd427388fa4cceb7069345&hash=064415531EE7892DA08425441BBD8DC9",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/vantage-coupe-light.png",
+    "rev": "5831230069dd427388fa4cceb7069345"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/vantage-roadster-dark.png?mw=1920&rev=e1301832134344b7ba74764294fc4f4b&hash=EDB48823EAFA5F27C551C48635E67456",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/vantage-roadster-dark.png",
+    "rev": "e1301832134344b7ba74764294fc4f4b"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/vantage-roadster.png?mw=1920&rev=be20337afb504814b360fd9bbc4f24eb&hash=0D6B780666930D078196B9B41C8EA1BB",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/vantage-roadster.png",
+    "rev": "be20337afb504814b360fd9bbc4f24eb"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/vantage-roadster-light.png?mw=1920&rev=4db43358bb5b4cd389975914167c1f6d&hash=68AB5668B50702A0041AD117D8CF8516",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/vantage-roadster-light.png",
+    "rev": "4db43358bb5b4cd389975914167c1f6d"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/db12-s/db12-s-dark-alt-2.jpg?mw=1920&rev=407b689d6c654ee3a40d6d38e6d3533a&hash=AED2D755D03A49CA9D6BCFC55279DFDB",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/db12-s/db12-s-dark-alt-2.jpg",
+    "rev": "407b689d6c654ee3a40d6d38e6d3533a"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/db12-s/db12-s-light-alt-2.jpg?mw=1920&rev=1200b3b3d79e4a9ea8a8d99b75c30ed5&hash=1A1852E281A1680AC34AFE50742BBFD1",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/db12-s/db12-s-light-alt-2.jpg",
+    "rev": "1200b3b3d79e4a9ea8a8d99b75c30ed5"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/db12-couple-dark.png?mw=1920&rev=52593acd228f4d1cb83d4905d1ad3b06&hash=866C926A712A144C98A7170916097255",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/db12-couple-dark.png",
+    "rev": "52593acd228f4d1cb83d4905d1ad3b06"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/db12-couple-light.png?mw=1920&rev=91bfb99292c048de8ba14818e7d55f4d&hash=EB891F77D1C1E211616A4E689AE73F1F",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/db12-couple-light.png",
+    "rev": "91bfb99292c048de8ba14818e7d55f4d"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/db12-volante-dark.png?mw=1920&rev=030298c25d754aaf90a0d12534f5e62a&hash=DAA17AA9F63C8D5F4856CAC0BCDF28E5",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/db12-volante-dark.png",
+    "rev": "030298c25d754aaf90a0d12534f5e62a"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/db12-volante-light.png?mw=1920&rev=ad39bd4de88b4ddebf44b31475571f3e&hash=B024C6F04E51E288583A33FE07C6DD68",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/db12-volante-light.png",
+    "rev": "ad39bd4de88b4ddebf44b31475571f3e"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/60thvolante/db12volante60th-dark.jpg?mw=1920&rev=da566d5900d3492f80fc6589e695a281&hash=05BB9AE86EBE81D016A8C0AF9AA3DD9B",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/60thvolante/db12volante60th-dark.jpg",
+    "rev": "da566d5900d3492f80fc6589e695a281"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/60thvolante/db12volante60th-light.jpg?mw=1920&rev=8c09486e7cda4288b71de1cd2a053ef7&hash=63BA873340C2A8EA9E4311BB34518D71",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/60thvolante/db12volante60th-light.jpg",
+    "rev": "8c09486e7cda4288b71de1cd2a053ef7"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/vanquish-night-background.jpg?mw=1920&rev=97754a1c3e0f4ebd8612b7cbb7cbf61d&hash=53678976D4763CE0C322D85B040117B8",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/vanquish-night-background.jpg",
+    "rev": "97754a1c3e0f4ebd8612b7cbb7cbf61d"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/vanquish-darker.jpg?mw=1920&rev=2f5adfb9aa654b3599142d24c71309ff&hash=59181A9F66AE7B0FDF33DCD8B008FB9B",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/vanquish-darker.jpg",
+    "rev": "2f5adfb9aa654b3599142d24c71309ff"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/vanq-volante-dark-final.jpg?mw=1920&rev=8146a4ea8b764905b4cfa7c16539c150&hash=9CB2A9F914395F766ECA255E151FB668",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/vanq-volante-dark-final.jpg",
+    "rev": "8146a4ea8b764905b4cfa7c16539c150"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/vanq-volante-light-final.jpg?mw=1920&rev=b2982791c0c84f6a9488eec0af4f7945&hash=8AD69D4221E058C76C441C78D2D5D0CE",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/vanq-volante-light-final.jpg",
+    "rev": "b2982791c0c84f6a9488eec0af4f7945"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/25thvanquish/vanquish-25th-dark.jpg?mw=1920&rev=338ed64dc3bb448c95db08a1c9df82d2&hash=B36D6D481B2AEA6703C3ABED6F5067EE",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/25thvanquish/vanquish-25th-dark.jpg",
+    "rev": "338ed64dc3bb448c95db08a1c9df82d2"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/25thvanquish/vanquish-25th-light.jpg?mw=1920&rev=c0f6a1c7dc8f43dca793ef1e3c2bcb6a&hash=3DD1307EC35A0854C66AE88F340DAEA1",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/25thvanquish/vanquish-25th-light.jpg",
+    "rev": "c0f6a1c7dc8f43dca793ef1e3c2bcb6a"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/60thvolante/vanquishvolante60th-dark.jpg?mw=1920&rev=ae4405ca032a458c9f40b3ef1c3be605&hash=AE9ECA56BCBADA02F7B820E5F4639C03",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/60thvolante/vanquishvolante60th-dark.jpg",
+    "rev": "ae4405ca032a458c9f40b3ef1c3be605"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/60thvolante/vanquishvolante60th-light.jpg?mw=1920&rev=a25d089c0267401286de0c7398608105&hash=C8ADDFA290A77C0F78645A49066C2A71",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/60thvolante/vanquishvolante60th-light.jpg",
+    "rev": "a25d089c0267401286de0c7398608105"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/dbx-s-dark.png?mw=1920&rev=06c5a8006bad497abe58f446716a3285&hash=3951FE4ECC5C23429A4D727949F83BC0",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/dbx-s-dark.png",
+    "rev": "06c5a8006bad497abe58f446716a3285"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/dbx-s-light.png?mw=1920&rev=8945045b6552425aa3ffb920a147b95e&hash=A9A8A2D6CE0038F8A4526A84785211A9",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/dbx-s-light.png",
+    "rev": "8945045b6552425aa3ffb920a147b95e"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/dbx707-dark.png?mw=1920&rev=2c5b2fba64984ad1bc28b5e52ee0b9a2&hash=72C2E70DB57607B079224F088FA7EFA2",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/dbx707-dark.png",
+    "rev": "2c5b2fba64984ad1bc28b5e52ee0b9a2"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/dbx707-light.png?mw=1920&rev=0206a007236a4a30b244da1306142619&hash=F2D68FF3FA721E5ED0C66D51B28787F6",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/dbx707-light.png",
+    "rev": "0206a007236a4a30b244da1306142619"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-july-24-uplift/valkyrie-0402/valkyrie-hero-desktop.jpg?mw=1920&rev=47f17ecdaafd47478a727c27de7e87a8&hash=197144ED374741B5A8C44BF6F3746F5A",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-july-24-uplift/valkyrie-0402/valkyrie-hero-desktop.jpg",
+    "rev": "47f17ecdaafd47478a727c27de7e87a8"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-july-24-uplift/valkyrie-0402/valkyrie-hero-mobile.jpg?mw=1080&rev=ff336baa34784df780d4d6af5a71bfb9&hash=3D6648E915F20DDF6534103ECB0906F9",
+    "mw": 1080,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-july-24-uplift/valkyrie-0402/valkyrie-hero-mobile.jpg",
+    "rev": "ff336baa34784df780d4d6af5a71bfb9"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-july-24-uplift/valkyrie-0402/ep-desk.jpg?rev=9f1362ef91db43949da4f474b33f0c69",
+    "mw": 0,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-july-24-uplift/valkyrie-0402/ep-desk.jpg",
+    "rev": "9f1362ef91db43949da4f474b33f0c69"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-july-24-uplift/valkyrie-0402/ep-mobile.jpg?rev=78bb306904c74815b8983aedb6d36217",
+    "mw": 0,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-july-24-uplift/valkyrie-0402/ep-mobile.jpg",
+    "rev": "78bb306904c74815b8983aedb6d36217"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-july-24-uplift/valkyrie-0402/aerodynamics-tile.jpg?mw=1920&rev=9585dedfbf61468396d622f31b96bfcc&hash=C374F1880EC746EFDEE93E850F6E5402",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-july-24-uplift/valkyrie-0402/aerodynamics-tile.jpg",
+    "rev": "9585dedfbf61468396d622f31b96bfcc"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-july-24-uplift/valkyrie-0402/lightweight-tile.jpg?mw=1920&rev=f1a066b9371040749e92e8faeb484a7d&hash=1339DA802BA844D10BFA57B210018293",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-july-24-uplift/valkyrie-0402/lightweight-tile.jpg",
+    "rev": "f1a066b9371040749e92e8faeb484a7d"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-july-24-uplift/valkyrie-0402/performance-tile.jpg?mw=1920&rev=eaadf37c289d4364ad0a006ad41a6ab3&hash=6279AD60FE06F0E0DE80243EEA68C637",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-july-24-uplift/valkyrie-0402/performance-tile.jpg",
+    "rev": "eaadf37c289d4364ad0a006ad41a6ab3"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-july-24-uplift/valkyrie-0402/hydraulics-tile.jpg?mw=1920&rev=57272ad34b09485fb547d754169f88a1&hash=A7E7010EF39DA879CE2E38B33313367F",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-july-24-uplift/valkyrie-0402/hydraulics-tile.jpg",
+    "rev": "57272ad34b09485fb547d754169f88a1"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-july-24-uplift/valkyrie-0402/g-force-tile.jpg?mw=1920&rev=697118bf8ca7411686114a528f6c3f53&hash=DF6114916F5979E3D76FDF9BB5671FB6",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-july-24-uplift/valkyrie-0402/g-force-tile.jpg",
+    "rev": "697118bf8ca7411686114a528f6c3f53"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-july-24-uplift/valkyrie-0402/engine-tile.jpg?mw=1920&rev=31d5bba233c14bab9b117b602a22034d&hash=50AF960450F4D8CC956CD1E20D973535",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-july-24-uplift/valkyrie-0402/engine-tile.jpg",
+    "rev": "31d5bba233c14bab9b117b602a22034d"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-july-24-uplift/engineering-overlay/aero-overlay-new.jpg?mw=1920&rev=ea342a55bac148f28239026c3fd8bde1&hash=DDBA45D2B60C5AAF2B5B93814C7C4E81",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-july-24-uplift/engineering-overlay/aero-overlay-new.jpg",
+    "rev": "ea342a55bac148f28239026c3fd8bde1"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-july-24-uplift/engineering-overlay/lightwight-overlay.jpg?mw=1920&rev=8b7eeef4da8e4a46addf4e74596b0898&hash=8251CEFFA35BCF015CABEB299FA14F6B",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-july-24-uplift/engineering-overlay/lightwight-overlay.jpg",
+    "rev": "8b7eeef4da8e4a46addf4e74596b0898"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-july-24-uplift/engineering-overlay/performance-overlay.jpg?mw=1920&rev=74b20ae6d313403391886ccb64229afe&hash=A446DF679703F87346886D2A21E02CE3",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-july-24-uplift/engineering-overlay/performance-overlay.jpg",
+    "rev": "74b20ae6d313403391886ccb64229afe"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-july-24-uplift/videos-from-old-models-page/screenshots-from-videos/hydraulics_video_screenshot.jpg?mw=1920&rev=7d8da711cd5d45898ebcd07b128132c6&hash=6B18DE19789E47C1CDB95F009B3E6233",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-july-24-uplift/videos-from-old-models-page/screenshots-from-videos/hydraulics_video_screenshot.jpg",
+    "rev": "7d8da711cd5d45898ebcd07b128132c6"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-july-24-uplift/engineering-overlay/hydraulics-overlay.jpg?mw=1920&rev=17cdf1afec384012bc29590f14fb7b8f&hash=8C0EE023CE8BDA71D261718A0810AB62",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-july-24-uplift/engineering-overlay/hydraulics-overlay.jpg",
+    "rev": "17cdf1afec384012bc29590f14fb7b8f"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-july-24-uplift/videos-from-old-models-page/screenshots-from-videos/g-force_video_screenshot.jpg?mw=1920&rev=4d9736a40fe4438c881a007c8513171b&hash=DE60EBC7D4A8B730BC438B7770DB0CC5",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-july-24-uplift/videos-from-old-models-page/screenshots-from-videos/g-force_video_screenshot.jpg",
+    "rev": "4d9736a40fe4438c881a007c8513171b"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-july-24-uplift/engineering-overlay/gforce-overlay.jpg?mw=1920&rev=df88e93a7092471e9f65d4eda256ee7f&hash=313C40B09EC577C783490A553D702C47",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-july-24-uplift/engineering-overlay/gforce-overlay.jpg",
+    "rev": "df88e93a7092471e9f65d4eda256ee7f"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-july-24-uplift/videos-from-old-models-page/screenshots-from-videos/power_video_screenshot.jpg?mw=1920&rev=e4882025168943699c6d5404b6974b80&hash=76A681A6996C7A9D2F46297A96D9FD98",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-july-24-uplift/videos-from-old-models-page/screenshots-from-videos/power_video_screenshot.jpg",
+    "rev": "e4882025168943699c6d5404b6974b80"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-july-24-uplift/engineering-overlay/engine-overlay.jpg?mw=1920&rev=70b32cfa03f84fdcacfaf5e1534b472d&hash=E99E8F666703F8AFC373B7232A4627B4",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-july-24-uplift/engineering-overlay/engine-overlay.jpg",
+    "rev": "70b32cfa03f84fdcacfaf5e1534b472d"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-july-24-uplift/valkyrie-0402/design-desktop.jpg?rev=ec0c2f1cf0bd40b08d50c9b192897f18",
+    "mw": 0,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-july-24-uplift/valkyrie-0402/design-desktop.jpg",
+    "rev": "ec0c2f1cf0bd40b08d50c9b192897f18"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-july-24-uplift/valkyrie-0402/design-mobile.jpg?rev=b11f8e91804b4dfc99a9e35459f3f041",
+    "mw": 0,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-july-24-uplift/valkyrie-0402/design-mobile.jpg",
+    "rev": "b11f8e91804b4dfc99a9e35459f3f041"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-july-24-uplift/1505/brake-light-tile-new.jpg?mw=1920&rev=b186d97f21e14499842a03d048582557&hash=60559C0FE4A45B77EEC96C0E121F3BA5",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-july-24-uplift/1505/brake-light-tile-new.jpg",
+    "rev": "b186d97f21e14499842a03d048582557"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-july-24-uplift/1505/crafted-wings-tile-new.jpg?mw=1920&rev=27be42979de64dac8c38b76f610f7818&hash=ACA6AC604CA94194E98F57E06F6963AB",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-july-24-uplift/1505/crafted-wings-tile-new.jpg",
+    "rev": "27be42979de64dac8c38b76f610f7818"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-july-24-uplift/1505/carbon-blade-tile-new.jpg?mw=1920&rev=ee57cd73bddd41e08c27044dc181fa71&hash=E6538451E9004BBF04EDA0751066A19A",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-july-24-uplift/1505/carbon-blade-tile-new.jpg",
+    "rev": "ee57cd73bddd41e08c27044dc181fa71"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-july-24-uplift/videos-from-old-models-page/screenshots-from-videos/brake_light_screenshot.jpg?mw=1920&rev=4ace27581ebf40bb88ad450168ee9e19&hash=BEF4B692ACBA4CAA6A0B3A574037DDAE",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-july-24-uplift/videos-from-old-models-page/screenshots-from-videos/brake_light_screenshot.jpg",
+    "rev": "4ace27581ebf40bb88ad450168ee9e19"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-july-24-uplift/1505/brake-overlay-new.jpg?mw=1920&rev=f8c22cd37f684ce7ae7be8052ef0c519&hash=FED17C47E356FB1B1DE42355042628F1",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-july-24-uplift/1505/brake-overlay-new.jpg",
+    "rev": "f8c22cd37f684ce7ae7be8052ef0c519"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-july-24-uplift/design-overlay/badge-overlay.jpg?mw=1920&rev=a2b82d96dcc245579e4e17ae8c9ad797&hash=81273ABEEB8FA1A0AE7C8CAA438C7976",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-july-24-uplift/design-overlay/badge-overlay.jpg",
+    "rev": "a2b82d96dcc245579e4e17ae8c9ad797"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-july-24-uplift/1505/badge-overlay-new.jpg?mw=1920&rev=78f99e53b23449f8a37624b3f4c03bdc&hash=0EB07C1FE0234EFCAAAA695A32BAD09A",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-july-24-uplift/1505/badge-overlay-new.jpg",
+    "rev": "78f99e53b23449f8a37624b3f4c03bdc"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-july-24-uplift/videos-from-old-models-page/screenshots-from-videos/carbon_blade_wiper_video_screenshot.jpg?mw=1920&rev=013012c2c4e44ef4a4dd8083757be117&hash=4B96850D1AFB055D65962DC77B68A93A",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-july-24-uplift/videos-from-old-models-page/screenshots-from-videos/carbon_blade_wiper_video_screenshot.jpg",
+    "rev": "013012c2c4e44ef4a4dd8083757be117"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-july-24-uplift/1505/blade-overlay-new.jpg?mw=1920&rev=4cd39878f9d54fafad06fdd171949f25&hash=01F567B1D59BA2ABFBF2A37596C70EB4",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-july-24-uplift/1505/blade-overlay-new.jpg",
+    "rev": "4cd39878f9d54fafad06fdd171949f25"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-july-24-uplift/1505/explore-1-desk.jpg?mw=1920&rev=c02fcb2f16aa4753b2cdae724f830789&hash=790D4660C2241C8D9573F703AC6224E5",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-july-24-uplift/1505/explore-1-desk.jpg",
+    "rev": "c02fcb2f16aa4753b2cdae724f830789"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-july-24-uplift/1505/explore-1-mob.jpg?mw=1080&rev=931dcd13d0f34ef9832e17685964633f&hash=85C7C8DAFE42B5D63A793B7D4BD9D10A",
+    "mw": 1080,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-july-24-uplift/1505/explore-1-mob.jpg",
+    "rev": "931dcd13d0f34ef9832e17685964633f"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-july-24-uplift/1505/explore-2-desk.jpg?mw=1920&rev=e8c8254e0aae4018bb674238acdb30ef&hash=AA7AE312C1AAB84D6C389FAECAA16B59",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-july-24-uplift/1505/explore-2-desk.jpg",
+    "rev": "e8c8254e0aae4018bb674238acdb30ef"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-july-24-uplift/1505/explore-2-mob.jpg?mw=1080&rev=378c03e66c0f4a1bab6c183d9810e2d0&hash=FE1662932818123096F657496479F880",
+    "mw": 1080,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-july-24-uplift/1505/explore-2-mob.jpg",
+    "rev": "378c03e66c0f4a1bab6c183d9810e2d0"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-july-24-uplift/1505/explore-3-desk.jpg?mw=1920&rev=bc05f8efa1a04ecba6e260b60ec7a936&hash=8D04CCAAFF7813760157F00ED2495159",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-july-24-uplift/1505/explore-3-desk.jpg",
+    "rev": "bc05f8efa1a04ecba6e260b60ec7a936"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-july-24-uplift/1505/explore-3-mob.jpg?mw=1080&rev=da519e85ef694580aaf1d5fdb2732f1e&hash=399DC6C6682166011A2C306E9C85B783",
+    "mw": 1080,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-july-24-uplift/1505/explore-3-mob.jpg",
+    "rev": "da519e85ef694580aaf1d5fdb2732f1e"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-july-24-uplift/1505/explore-4-desk.jpg?mw=1920&rev=d1225fdc60f64aaf9180df21bea131eb&hash=F27A2EE50C2854C60AD0027639048C37",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-july-24-uplift/1505/explore-4-desk.jpg",
+    "rev": "d1225fdc60f64aaf9180df21bea131eb"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-july-24-uplift/1505/explore-4-mob.jpg?mw=1080&rev=8a83671a826f45c98fe2a864c282b92f&hash=A02D1A73DDECDE0F121B70D7A8BEF804",
+    "mw": 1080,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-july-24-uplift/1505/explore-4-mob.jpg",
+    "rev": "8a83671a826f45c98fe2a864c282b92f"
+   }
+  ],
+  "videos": [],
+  "jsonld": [],
+  "textlen": 20393
+ },
+ "spider": {
+  "imgs": [
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/vantage-s-dark.png?mw=1920&rev=851afb2513f341f8acc79e06e5c4edf5&hash=6960BC06D467AFEDFC7089581B57A6C9",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/vantage-s-dark.png",
+    "rev": "851afb2513f341f8acc79e06e5c4edf5"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/vantage-s.png?mw=1920&rev=63b3f113ffca448c9d97f00c42d07365&hash=631D8658AE6899F382E264D5FBDE1E6D",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/vantage-s.png",
+    "rev": "63b3f113ffca448c9d97f00c42d07365"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/fullres/vantage-s-full-res-test.jpg?mw=1920&rev=4c57a0418bd64503b334b78ab25de58c&hash=288724556752A29D1CC9FABCF802A00D",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/fullres/vantage-s-full-res-test.jpg",
+    "rev": "4c57a0418bd64503b334b78ab25de58c"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/vantage-coupe-dark.png?mw=1920&rev=1e16f00d7d734ae4826afbdd65b216b7&hash=2E4885A05B32C178C65EE6E60CADDF51",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/vantage-coupe-dark.png",
+    "rev": "1e16f00d7d734ae4826afbdd65b216b7"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/vantage-coupe.png?mw=1920&rev=2fae92496bbd45508412f90ced71264b&hash=14CDFA09AB8433D8DB1A6834BAB3F940",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/vantage-coupe.png",
+    "rev": "2fae92496bbd45508412f90ced71264b"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/vantage-coupe-light.png?mw=1920&rev=5831230069dd427388fa4cceb7069345&hash=064415531EE7892DA08425441BBD8DC9",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/vantage-coupe-light.png",
+    "rev": "5831230069dd427388fa4cceb7069345"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/vantage-roadster-dark.png?mw=1920&rev=e1301832134344b7ba74764294fc4f4b&hash=EDB48823EAFA5F27C551C48635E67456",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/vantage-roadster-dark.png",
+    "rev": "e1301832134344b7ba74764294fc4f4b"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/vantage-roadster.png?mw=1920&rev=be20337afb504814b360fd9bbc4f24eb&hash=0D6B780666930D078196B9B41C8EA1BB",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/vantage-roadster.png",
+    "rev": "be20337afb504814b360fd9bbc4f24eb"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/vantage-roadster-light.png?mw=1920&rev=4db43358bb5b4cd389975914167c1f6d&hash=68AB5668B50702A0041AD117D8CF8516",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/vantage-roadster-light.png",
+    "rev": "4db43358bb5b4cd389975914167c1f6d"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/db12-s/db12-s-dark-alt-2.jpg?mw=1920&rev=407b689d6c654ee3a40d6d38e6d3533a&hash=AED2D755D03A49CA9D6BCFC55279DFDB",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/db12-s/db12-s-dark-alt-2.jpg",
+    "rev": "407b689d6c654ee3a40d6d38e6d3533a"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/db12-s/db12-s-light-alt-2.jpg?mw=1920&rev=1200b3b3d79e4a9ea8a8d99b75c30ed5&hash=1A1852E281A1680AC34AFE50742BBFD1",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/db12-s/db12-s-light-alt-2.jpg",
+    "rev": "1200b3b3d79e4a9ea8a8d99b75c30ed5"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/db12-couple-dark.png?mw=1920&rev=52593acd228f4d1cb83d4905d1ad3b06&hash=866C926A712A144C98A7170916097255",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/db12-couple-dark.png",
+    "rev": "52593acd228f4d1cb83d4905d1ad3b06"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/db12-couple-light.png?mw=1920&rev=91bfb99292c048de8ba14818e7d55f4d&hash=EB891F77D1C1E211616A4E689AE73F1F",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/db12-couple-light.png",
+    "rev": "91bfb99292c048de8ba14818e7d55f4d"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/db12-volante-dark.png?mw=1920&rev=030298c25d754aaf90a0d12534f5e62a&hash=DAA17AA9F63C8D5F4856CAC0BCDF28E5",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/db12-volante-dark.png",
+    "rev": "030298c25d754aaf90a0d12534f5e62a"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/db12-volante-light.png?mw=1920&rev=ad39bd4de88b4ddebf44b31475571f3e&hash=B024C6F04E51E288583A33FE07C6DD68",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/db12-volante-light.png",
+    "rev": "ad39bd4de88b4ddebf44b31475571f3e"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/60thvolante/db12volante60th-dark.jpg?mw=1920&rev=da566d5900d3492f80fc6589e695a281&hash=05BB9AE86EBE81D016A8C0AF9AA3DD9B",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/60thvolante/db12volante60th-dark.jpg",
+    "rev": "da566d5900d3492f80fc6589e695a281"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/60thvolante/db12volante60th-light.jpg?mw=1920&rev=8c09486e7cda4288b71de1cd2a053ef7&hash=63BA873340C2A8EA9E4311BB34518D71",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/60thvolante/db12volante60th-light.jpg",
+    "rev": "8c09486e7cda4288b71de1cd2a053ef7"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/vanquish-night-background.jpg?mw=1920&rev=97754a1c3e0f4ebd8612b7cbb7cbf61d&hash=53678976D4763CE0C322D85B040117B8",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/vanquish-night-background.jpg",
+    "rev": "97754a1c3e0f4ebd8612b7cbb7cbf61d"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/vanquish-darker.jpg?mw=1920&rev=2f5adfb9aa654b3599142d24c71309ff&hash=59181A9F66AE7B0FDF33DCD8B008FB9B",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/vanquish-darker.jpg",
+    "rev": "2f5adfb9aa654b3599142d24c71309ff"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/vanq-volante-dark-final.jpg?mw=1920&rev=8146a4ea8b764905b4cfa7c16539c150&hash=9CB2A9F914395F766ECA255E151FB668",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/vanq-volante-dark-final.jpg",
+    "rev": "8146a4ea8b764905b4cfa7c16539c150"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/vanq-volante-light-final.jpg?mw=1920&rev=b2982791c0c84f6a9488eec0af4f7945&hash=8AD69D4221E058C76C441C78D2D5D0CE",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/vanq-volante-light-final.jpg",
+    "rev": "b2982791c0c84f6a9488eec0af4f7945"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/25thvanquish/vanquish-25th-dark.jpg?mw=1920&rev=338ed64dc3bb448c95db08a1c9df82d2&hash=B36D6D481B2AEA6703C3ABED6F5067EE",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/25thvanquish/vanquish-25th-dark.jpg",
+    "rev": "338ed64dc3bb448c95db08a1c9df82d2"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/25thvanquish/vanquish-25th-light.jpg?mw=1920&rev=c0f6a1c7dc8f43dca793ef1e3c2bcb6a&hash=3DD1307EC35A0854C66AE88F340DAEA1",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/25thvanquish/vanquish-25th-light.jpg",
+    "rev": "c0f6a1c7dc8f43dca793ef1e3c2bcb6a"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/60thvolante/vanquishvolante60th-dark.jpg?mw=1920&rev=ae4405ca032a458c9f40b3ef1c3be605&hash=AE9ECA56BCBADA02F7B820E5F4639C03",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/60thvolante/vanquishvolante60th-dark.jpg",
+    "rev": "ae4405ca032a458c9f40b3ef1c3be605"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/60thvolante/vanquishvolante60th-light.jpg?mw=1920&rev=a25d089c0267401286de0c7398608105&hash=C8ADDFA290A77C0F78645A49066C2A71",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/60thvolante/vanquishvolante60th-light.jpg",
+    "rev": "a25d089c0267401286de0c7398608105"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/dbx-s-dark.png?mw=1920&rev=06c5a8006bad497abe58f446716a3285&hash=3951FE4ECC5C23429A4D727949F83BC0",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/dbx-s-dark.png",
+    "rev": "06c5a8006bad497abe58f446716a3285"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/dbx-s-light.png?mw=1920&rev=8945045b6552425aa3ffb920a147b95e&hash=A9A8A2D6CE0038F8A4526A84785211A9",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/dbx-s-light.png",
+    "rev": "8945045b6552425aa3ffb920a147b95e"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/dbx707-dark.png?mw=1920&rev=2c5b2fba64984ad1bc28b5e52ee0b9a2&hash=72C2E70DB57607B079224F088FA7EFA2",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/dbx707-dark.png",
+    "rev": "2c5b2fba64984ad1bc28b5e52ee0b9a2"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/dbx707-light.png?mw=1920&rev=0206a007236a4a30b244da1306142619&hash=F2D68FF3FA721E5ED0C66D51B28787F6",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/dbx707-light.png",
+    "rev": "0206a007236a4a30b244da1306142619"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-spider/valkyrie-spider-hero-final.jpg?mw=1920&rev=cf296c7a13344155879176121fa31c35&hash=67CBB59FEFA3A2C98DEAC823A8A333B3",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-spider/valkyrie-spider-hero-final.jpg",
+    "rev": "cf296c7a13344155879176121fa31c35"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-spider/valkyrie-spider-hero-final-mobile.jpg?mw=1080&rev=8dd016a21c214988a4773784c11008b3&hash=649BD51BD58D7842150B475B245D2E45",
+    "mw": 1080,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-spider/valkyrie-spider-hero-final-mobile.jpg",
+    "rev": "8dd016a21c214988a4773784c11008b3"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-spider/scrollable-videos/side-desk.jpg?rev=2e512371c6694366aeeadfbd77d05030",
+    "mw": 0,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-spider/scrollable-videos/side-desk.jpg",
+    "rev": "2e512371c6694366aeeadfbd77d05030"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-spider/scrollable-videos/side-mob.jpg?rev=2d01f4b08a8942f6b0e0ba2bc931d049",
+    "mw": 0,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-spider/scrollable-videos/side-mob.jpg",
+    "rev": "2d01f4b08a8942f6b0e0ba2bc931d049"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-spider/design/tiles/valkyrie-spider_s01-2000_design_tile1.jpg?mw=1920&rev=0eed94dd836e4381b5a7a4af922e14f7&hash=C32F1AEAEBAE1894098A5161B509050B",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-spider/design/tiles/valkyrie-spider_s01-2000_design_tile1.jpg",
+    "rev": "0eed94dd836e4381b5a7a4af922e14f7"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-spider/engineering/tiles/valkyrie-spider_f02-5050_engineering_tile2.jpg?mw=1920&rev=58de176540054a4ca502ceacaaadd70f&hash=BBA0AFEDB045F4A713C8E5DE1586AE9C",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-spider/engineering/tiles/valkyrie-spider_f02-5050_engineering_tile2.jpg",
+    "rev": "58de176540054a4ca502ceacaaadd70f"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-spider/engineering/tiles/valkyrie-spider_s01-5050_engineering_tile3.jpg?mw=1920&rev=50d9d188c2f8483abd95153dd9a49ed7&hash=A1B67557BF8B58AC9200569A7F4EF87E",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-spider/engineering/tiles/valkyrie-spider_s01-5050_engineering_tile3.jpg",
+    "rev": "50d9d188c2f8483abd95153dd9a49ed7"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-spider/design/overlays/valkyrie-spider_s01-2000_design_overlay1.jpg?mw=1920&rev=b017fd14b9b1487994b7206fd9e7e66f&hash=C46918F72F010036C42053BEC37C0575",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-spider/design/overlays/valkyrie-spider_s01-2000_design_overlay1.jpg",
+    "rev": "b017fd14b9b1487994b7206fd9e7e66f"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-spider/engineering/overlays/valkyrie-spider_f02-5050_engineering_overlay2.jpg?mw=1920&rev=c02516f6c3a14027a30e95373ecb2330&hash=D33741CA6F7DCF58E7771BC972F20D32",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-spider/engineering/overlays/valkyrie-spider_f02-5050_engineering_overlay2.jpg",
+    "rev": "c02516f6c3a14027a30e95373ecb2330"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-spider/engineering/overlays/valkyrie-spider_s01-5050_engineering_overlay3.jpg?mw=1920&rev=c5790667ad4b4ef8b508489fb4a198f9&hash=C57D0AE24B869210522EED3E848714B1",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-spider/engineering/overlays/valkyrie-spider_s01-5050_engineering_overlay3.jpg",
+    "rev": "c5790667ad4b4ef8b508489fb4a198f9"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-spider/explore-grid/valkyrie-spider_f02-5050_explore_grid_tile1_destop.jpg?mw=1920&rev=d1c02738c78e4e4f9486413c1f85bafb&hash=8C72B04CFC0544B881FC664E05857D87",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-spider/explore-grid/valkyrie-spider_f02-5050_explore_grid_tile1_destop.jpg",
+    "rev": "d1c02738c78e4e4f9486413c1f85bafb"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-spider/explore-grid/valkyrie-spider_f02-5050_explore_grid_tile1_mobile.jpg?mw=1080&rev=a9737f98f4b24c3d9573a0d0574ed08f&hash=79D04E4D1F10BB1A6A09BD86FD91C905",
+    "mw": 1080,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-spider/explore-grid/valkyrie-spider_f02-5050_explore_grid_tile1_mobile.jpg",
+    "rev": "a9737f98f4b24c3d9573a0d0574ed08f"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-spider/explore-grid/valkyrie-spider_r035050_explgrid_tile2_destop.jpg?mw=1920&rev=57aa2f29ebd34758830d9fc1bb14c986&hash=EFC3D330FE90CD2D80867B7372D41C6C",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-spider/explore-grid/valkyrie-spider_r035050_explgrid_tile2_destop.jpg",
+    "rev": "57aa2f29ebd34758830d9fc1bb14c986"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-spider/explore-grid/valkyrie-spider_r035050_explgrid_tile2_mobile.jpg?mw=1080&rev=8d3dcf1b5b544661968a19de38e20cbe&hash=F175764A4972848C004C957030F8A274",
+    "mw": 1080,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-spider/explore-grid/valkyrie-spider_r035050_explgrid_tile2_mobile.jpg",
+    "rev": "8d3dcf1b5b544661968a19de38e20cbe"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-spider/explore-grid/valkyrie-spider_s01-5050_explore_grid_tile3_desktop.jpg?mw=1920&rev=8b815eadbfd7432c9def7c04365f39ed&hash=92490A5FB3083FE07CCF252A22C9C00D",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-spider/explore-grid/valkyrie-spider_s01-5050_explore_grid_tile3_desktop.jpg",
+    "rev": "8b815eadbfd7432c9def7c04365f39ed"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-spider/explore-grid/valkyrie-spider_s01-5050_explore_grid_tile3_mobile.jpg?mw=1080&rev=db3e59c990724d15bca57c90c26ee10f&hash=71DEBFF7A8025FDAC28A5416DBE720DE",
+    "mw": 1080,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-spider/explore-grid/valkyrie-spider_s01-5050_explore_grid_tile3_mobile.jpg",
+    "rev": "db3e59c990724d15bca57c90c26ee10f"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-july-24-uplift/1505/explore-4-desk.jpg?mw=1920&rev=d1225fdc60f64aaf9180df21bea131eb&hash=F27A2EE50C2854C60AD0027639048C37",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-july-24-uplift/1505/explore-4-desk.jpg",
+    "rev": "d1225fdc60f64aaf9180df21bea131eb"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-july-24-uplift/1505/explore-4-mob.jpg?mw=1080&rev=8a83671a826f45c98fe2a864c282b92f&hash=A02D1A73DDECDE0F121B70D7A8BEF804",
+    "mw": 1080,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-july-24-uplift/1505/explore-4-mob.jpg",
+    "rev": "8a83671a826f45c98fe2a864c282b92f"
+   }
+  ],
+  "videos": [],
+  "jsonld": [],
+  "textlen": 8423
+ },
+ "amr-pro": {
+  "imgs": [
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/vantage-s-dark.png?mw=1920&rev=851afb2513f341f8acc79e06e5c4edf5&hash=6960BC06D467AFEDFC7089581B57A6C9",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/vantage-s-dark.png",
+    "rev": "851afb2513f341f8acc79e06e5c4edf5"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/vantage-s.png?mw=1920&rev=63b3f113ffca448c9d97f00c42d07365&hash=631D8658AE6899F382E264D5FBDE1E6D",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/vantage-s.png",
+    "rev": "63b3f113ffca448c9d97f00c42d07365"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/fullres/vantage-s-full-res-test.jpg?mw=1920&rev=4c57a0418bd64503b334b78ab25de58c&hash=288724556752A29D1CC9FABCF802A00D",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/fullres/vantage-s-full-res-test.jpg",
+    "rev": "4c57a0418bd64503b334b78ab25de58c"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/vantage-coupe-dark.png?mw=1920&rev=1e16f00d7d734ae4826afbdd65b216b7&hash=2E4885A05B32C178C65EE6E60CADDF51",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/vantage-coupe-dark.png",
+    "rev": "1e16f00d7d734ae4826afbdd65b216b7"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/vantage-coupe.png?mw=1920&rev=2fae92496bbd45508412f90ced71264b&hash=14CDFA09AB8433D8DB1A6834BAB3F940",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/vantage-coupe.png",
+    "rev": "2fae92496bbd45508412f90ced71264b"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/vantage-coupe-light.png?mw=1920&rev=5831230069dd427388fa4cceb7069345&hash=064415531EE7892DA08425441BBD8DC9",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/vantage-coupe-light.png",
+    "rev": "5831230069dd427388fa4cceb7069345"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/vantage-roadster-dark.png?mw=1920&rev=e1301832134344b7ba74764294fc4f4b&hash=EDB48823EAFA5F27C551C48635E67456",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/vantage-roadster-dark.png",
+    "rev": "e1301832134344b7ba74764294fc4f4b"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/vantage-roadster.png?mw=1920&rev=be20337afb504814b360fd9bbc4f24eb&hash=0D6B780666930D078196B9B41C8EA1BB",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/vantage-roadster.png",
+    "rev": "be20337afb504814b360fd9bbc4f24eb"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/vantage-roadster-light.png?mw=1920&rev=4db43358bb5b4cd389975914167c1f6d&hash=68AB5668B50702A0041AD117D8CF8516",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/vantage-roadster-light.png",
+    "rev": "4db43358bb5b4cd389975914167c1f6d"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/db12-s/db12-s-dark-alt-2.jpg?mw=1920&rev=407b689d6c654ee3a40d6d38e6d3533a&hash=AED2D755D03A49CA9D6BCFC55279DFDB",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/db12-s/db12-s-dark-alt-2.jpg",
+    "rev": "407b689d6c654ee3a40d6d38e6d3533a"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/db12-s/db12-s-light-alt-2.jpg?mw=1920&rev=1200b3b3d79e4a9ea8a8d99b75c30ed5&hash=1A1852E281A1680AC34AFE50742BBFD1",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/db12-s/db12-s-light-alt-2.jpg",
+    "rev": "1200b3b3d79e4a9ea8a8d99b75c30ed5"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/db12-couple-dark.png?mw=1920&rev=52593acd228f4d1cb83d4905d1ad3b06&hash=866C926A712A144C98A7170916097255",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/db12-couple-dark.png",
+    "rev": "52593acd228f4d1cb83d4905d1ad3b06"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/db12-couple-light.png?mw=1920&rev=91bfb99292c048de8ba14818e7d55f4d&hash=EB891F77D1C1E211616A4E689AE73F1F",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/db12-couple-light.png",
+    "rev": "91bfb99292c048de8ba14818e7d55f4d"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/db12-volante-dark.png?mw=1920&rev=030298c25d754aaf90a0d12534f5e62a&hash=DAA17AA9F63C8D5F4856CAC0BCDF28E5",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/db12-volante-dark.png",
+    "rev": "030298c25d754aaf90a0d12534f5e62a"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/db12-volante-light.png?mw=1920&rev=ad39bd4de88b4ddebf44b31475571f3e&hash=B024C6F04E51E288583A33FE07C6DD68",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/db12-volante-light.png",
+    "rev": "ad39bd4de88b4ddebf44b31475571f3e"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/60thvolante/db12volante60th-dark.jpg?mw=1920&rev=da566d5900d3492f80fc6589e695a281&hash=05BB9AE86EBE81D016A8C0AF9AA3DD9B",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/60thvolante/db12volante60th-dark.jpg",
+    "rev": "da566d5900d3492f80fc6589e695a281"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/60thvolante/db12volante60th-light.jpg?mw=1920&rev=8c09486e7cda4288b71de1cd2a053ef7&hash=63BA873340C2A8EA9E4311BB34518D71",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/60thvolante/db12volante60th-light.jpg",
+    "rev": "8c09486e7cda4288b71de1cd2a053ef7"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/vanquish-night-background.jpg?mw=1920&rev=97754a1c3e0f4ebd8612b7cbb7cbf61d&hash=53678976D4763CE0C322D85B040117B8",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/vanquish-night-background.jpg",
+    "rev": "97754a1c3e0f4ebd8612b7cbb7cbf61d"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/vanquish-darker.jpg?mw=1920&rev=2f5adfb9aa654b3599142d24c71309ff&hash=59181A9F66AE7B0FDF33DCD8B008FB9B",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/vanquish-darker.jpg",
+    "rev": "2f5adfb9aa654b3599142d24c71309ff"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/vanq-volante-dark-final.jpg?mw=1920&rev=8146a4ea8b764905b4cfa7c16539c150&hash=9CB2A9F914395F766ECA255E151FB668",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/vanq-volante-dark-final.jpg",
+    "rev": "8146a4ea8b764905b4cfa7c16539c150"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/vanq-volante-light-final.jpg?mw=1920&rev=b2982791c0c84f6a9488eec0af4f7945&hash=8AD69D4221E058C76C441C78D2D5D0CE",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/vanq-volante-light-final.jpg",
+    "rev": "b2982791c0c84f6a9488eec0af4f7945"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/25thvanquish/vanquish-25th-dark.jpg?mw=1920&rev=338ed64dc3bb448c95db08a1c9df82d2&hash=B36D6D481B2AEA6703C3ABED6F5067EE",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/25thvanquish/vanquish-25th-dark.jpg",
+    "rev": "338ed64dc3bb448c95db08a1c9df82d2"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/25thvanquish/vanquish-25th-light.jpg?mw=1920&rev=c0f6a1c7dc8f43dca793ef1e3c2bcb6a&hash=3DD1307EC35A0854C66AE88F340DAEA1",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/25thvanquish/vanquish-25th-light.jpg",
+    "rev": "c0f6a1c7dc8f43dca793ef1e3c2bcb6a"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/60thvolante/vanquishvolante60th-dark.jpg?mw=1920&rev=ae4405ca032a458c9f40b3ef1c3be605&hash=AE9ECA56BCBADA02F7B820E5F4639C03",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/60thvolante/vanquishvolante60th-dark.jpg",
+    "rev": "ae4405ca032a458c9f40b3ef1c3be605"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/60thvolante/vanquishvolante60th-light.jpg?mw=1920&rev=a25d089c0267401286de0c7398608105&hash=C8ADDFA290A77C0F78645A49066C2A71",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/60thvolante/vanquishvolante60th-light.jpg",
+    "rev": "a25d089c0267401286de0c7398608105"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/dbx-s-dark.png?mw=1920&rev=06c5a8006bad497abe58f446716a3285&hash=3951FE4ECC5C23429A4D727949F83BC0",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/dbx-s-dark.png",
+    "rev": "06c5a8006bad497abe58f446716a3285"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/dbx-s-light.png?mw=1920&rev=8945045b6552425aa3ffb920a147b95e&hash=A9A8A2D6CE0038F8A4526A84785211A9",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/dbx-s-light.png",
+    "rev": "8945045b6552425aa3ffb920a147b95e"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/dbx707-dark.png?mw=1920&rev=2c5b2fba64984ad1bc28b5e52ee0b9a2&hash=72C2E70DB57607B079224F088FA7EFA2",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/dbx707-dark.png",
+    "rev": "2c5b2fba64984ad1bc28b5e52ee0b9a2"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/dbx707-light.png?mw=1920&rev=0206a007236a4a30b244da1306142619&hash=F2D68FF3FA721E5ED0C66D51B28787F6",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/dbx707-light.png",
+    "rev": "0206a007236a4a30b244da1306142619"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-amr-pro/hero-banners/amr-pro-hero-desktop.jpg?mw=1920&rev=c7d3a9d045eb4b3cb799be71422146ee&hash=BF1466E547BCDB2F806C09A79761A0B7",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-amr-pro/hero-banners/amr-pro-hero-desktop.jpg",
+    "rev": "c7d3a9d045eb4b3cb799be71422146ee"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-amr-pro/hero-banners/amr-pro-hero-mobile.jpg?mw=1080&rev=a46d05cb3a3a41f5abd378cd2eb666aa&hash=9608C67150421AA8FD49180FD35215F6",
+    "mw": 1080,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-amr-pro/hero-banners/amr-pro-hero-mobile.jpg",
+    "rev": "a46d05cb3a3a41f5abd378cd2eb666aa"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-amr-pro/desktop-top.jpg?rev=4aa480f1bc134031ac249ed91220d0ab",
+    "mw": 0,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-amr-pro/desktop-top.jpg",
+    "rev": "4aa480f1bc134031ac249ed91220d0ab"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-amr-pro/mobile-top.jpg?rev=cf255af0567349bb8b40b2bce9f8054b",
+    "mw": 0,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-amr-pro/mobile-top.jpg",
+    "rev": "cf255af0567349bb8b40b2bce9f8054b"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-amr-pro/design/tiles/aggressive-aero-tile.jpg?mw=1920&rev=52188abb3caa41ba9b0958224e50cfa6&hash=FCD1C50A5C3CCFB217F213A90C088448",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-amr-pro/design/tiles/aggressive-aero-tile.jpg",
+    "rev": "52188abb3caa41ba9b0958224e50cfa6"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-amr-pro/design/tiles/performance-tile.jpg?mw=1920&rev=222e4cb0377c439b82a921ffc57a7e36&hash=2570F2C46227FC31F1EDEB986A70F4ED",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-amr-pro/design/tiles/performance-tile.jpg",
+    "rev": "222e4cb0377c439b82a921ffc57a7e36"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-amr-pro/design/tiles/race-optimised-tile.jpg?mw=1920&rev=9db96f0cffb04301838eada12119ac89&hash=C9A1FB59216F5CCFEB6A8C196F74C553",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-amr-pro/design/tiles/race-optimised-tile.jpg",
+    "rev": "9db96f0cffb04301838eada12119ac89"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-amr-pro/engineering/overlays/valkyrie-amr-pro_08_169_eng_overlay2.jpg?mw=1920&rev=f7bb18b358d449b2849667aed474afae&hash=F0314426DC40C8AD8514E97685C88E07",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-amr-pro/engineering/overlays/valkyrie-amr-pro_08_169_eng_overlay2.jpg",
+    "rev": "f7bb18b358d449b2849667aed474afae"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-amr-pro/engineering/overlays/valkyrie-amr-pro_01_169_eng_overlay3.jpg?mw=1920&rev=a43688b7bf324b68b5a4ec18573a105b&hash=BB498F044981FAE6EBA432AC7A292900",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-amr-pro/engineering/overlays/valkyrie-amr-pro_01_169_eng_overlay3.jpg",
+    "rev": "a43688b7bf324b68b5a4ec18573a105b"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-amr-pro/design/overlays/valkyrie-amr-pro_02_169_overlay3.jpg?mw=1920&rev=a5c027901cdf4ff3995a148506b3754b&hash=F45D1ABE0E789F8D58CF25CF1C994C70",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-amr-pro/design/overlays/valkyrie-amr-pro_02_169_overlay3.jpg",
+    "rev": "a5c027901cdf4ff3995a148506b3754b"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-amr-pro/explore-grid/valkyrie-amr-pro_08_169_expl_grid1_desktop.jpg?mw=1920&rev=751207f89e8641699f9ecad6dd0aeac2&hash=F1D6864488685E0A1A4B708B0D39EBFA",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-amr-pro/explore-grid/valkyrie-amr-pro_08_169_expl_grid1_desktop.jpg",
+    "rev": "751207f89e8641699f9ecad6dd0aeac2"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-amr-pro/explore-grid/valkyrie-amr-pro_08_169_expl_grid1_mobile.jpg?mw=1080&rev=2349e6931b4a45de967f71f43ef4d775&hash=EDFEE7E72B76134D7114BE3D15581BB1",
+    "mw": 1080,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-amr-pro/explore-grid/valkyrie-amr-pro_08_169_expl_grid1_mobile.jpg",
+    "rev": "2349e6931b4a45de967f71f43ef4d775"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-amr-pro/explore-grid/valkyrie-amr-pro_05-45_expl_grid2_desktop.jpg?mw=1920&rev=a48354d6700e449bae9cb75aa209f237&hash=9260989C748FBDB3F075D475F60864CC",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-amr-pro/explore-grid/valkyrie-amr-pro_05-45_expl_grid2_desktop.jpg",
+    "rev": "a48354d6700e449bae9cb75aa209f237"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-amr-pro/explore-grid/valkyrie-amr-pro_05-45_expl_grid2_mobile.jpg?mw=1080&rev=53d90e87a2404597a06242e7d7f6ce41&hash=44FB18095076CFF6FE503775D51B3B2B",
+    "mw": 1080,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-amr-pro/explore-grid/valkyrie-amr-pro_05-45_expl_grid2_mobile.jpg",
+    "rev": "53d90e87a2404597a06242e7d7f6ce41"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-amr-pro/explore-grid/valkyrie-amr-pro_04_169_expl_grid3_desktop.jpg?mw=1920&rev=7e001e10df564c7f9d7110a4bf691fbd&hash=00F49E3AD4CFABEC962DF6384B54C507",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-amr-pro/explore-grid/valkyrie-amr-pro_04_169_expl_grid3_desktop.jpg",
+    "rev": "7e001e10df564c7f9d7110a4bf691fbd"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-amr-pro/explore-grid/valkyrie-amr-pro_04_169_expl_grid3_mobile.jpg?mw=1080&rev=0818c414257b44c59651ac7873acda51&hash=287B506A70974B98AFF263642E8FB2C8",
+    "mw": 1080,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-amr-pro/explore-grid/valkyrie-amr-pro_04_169_expl_grid3_mobile.jpg",
+    "rev": "0818c414257b44c59651ac7873acda51"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/shared-explore-grid/unleashed-model-page-explore-grid-desktop.jpg?mw=1920&rev=579a0870a8674aa1b463c8c1e51fa21c&hash=20F4FDFFEF7863C8CCE0DB3074AA16F2",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/shared-explore-grid/unleashed-model-page-explore-grid-desktop.jpg",
+    "rev": "579a0870a8674aa1b463c8c1e51fa21c"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/shared-explore-grid/unleashed-model-page-explore-grid.jpg?mw=1080&rev=ded677e437804d97b1ba5fe0074af95a&hash=9226E5FF7862CB5ED28BAC05949D2008",
+    "mw": 1080,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/shared-explore-grid/unleashed-model-page-explore-grid.jpg",
+    "rev": "ded677e437804d97b1ba5fe0074af95a"
+   }
+  ],
+  "videos": [],
+  "jsonld": [],
+  "textlen": 7493
+ },
+ "lm": {
+  "imgs": [
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/vantage-s-dark.png?mw=1920&rev=851afb2513f341f8acc79e06e5c4edf5&hash=6960BC06D467AFEDFC7089581B57A6C9",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/vantage-s-dark.png",
+    "rev": "851afb2513f341f8acc79e06e5c4edf5"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/vantage-s.png?mw=1920&rev=63b3f113ffca448c9d97f00c42d07365&hash=631D8658AE6899F382E264D5FBDE1E6D",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/vantage-s.png",
+    "rev": "63b3f113ffca448c9d97f00c42d07365"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/fullres/vantage-s-full-res-test.jpg?mw=1920&rev=4c57a0418bd64503b334b78ab25de58c&hash=288724556752A29D1CC9FABCF802A00D",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/fullres/vantage-s-full-res-test.jpg",
+    "rev": "4c57a0418bd64503b334b78ab25de58c"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/vantage-coupe-dark.png?mw=1920&rev=1e16f00d7d734ae4826afbdd65b216b7&hash=2E4885A05B32C178C65EE6E60CADDF51",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/vantage-coupe-dark.png",
+    "rev": "1e16f00d7d734ae4826afbdd65b216b7"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/vantage-coupe.png?mw=1920&rev=2fae92496bbd45508412f90ced71264b&hash=14CDFA09AB8433D8DB1A6834BAB3F940",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/vantage-coupe.png",
+    "rev": "2fae92496bbd45508412f90ced71264b"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/vantage-coupe-light.png?mw=1920&rev=5831230069dd427388fa4cceb7069345&hash=064415531EE7892DA08425441BBD8DC9",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/vantage-coupe-light.png",
+    "rev": "5831230069dd427388fa4cceb7069345"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/vantage-roadster-dark.png?mw=1920&rev=e1301832134344b7ba74764294fc4f4b&hash=EDB48823EAFA5F27C551C48635E67456",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/vantage-roadster-dark.png",
+    "rev": "e1301832134344b7ba74764294fc4f4b"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/vantage-roadster.png?mw=1920&rev=be20337afb504814b360fd9bbc4f24eb&hash=0D6B780666930D078196B9B41C8EA1BB",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/vantage-roadster.png",
+    "rev": "be20337afb504814b360fd9bbc4f24eb"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/vantage-roadster-light.png?mw=1920&rev=4db43358bb5b4cd389975914167c1f6d&hash=68AB5668B50702A0041AD117D8CF8516",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/vantage-roadster-light.png",
+    "rev": "4db43358bb5b4cd389975914167c1f6d"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/db12-s/db12-s-dark-alt-2.jpg?mw=1920&rev=407b689d6c654ee3a40d6d38e6d3533a&hash=AED2D755D03A49CA9D6BCFC55279DFDB",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/db12-s/db12-s-dark-alt-2.jpg",
+    "rev": "407b689d6c654ee3a40d6d38e6d3533a"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/db12-s/db12-s-light-alt-2.jpg?mw=1920&rev=1200b3b3d79e4a9ea8a8d99b75c30ed5&hash=1A1852E281A1680AC34AFE50742BBFD1",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/db12-s/db12-s-light-alt-2.jpg",
+    "rev": "1200b3b3d79e4a9ea8a8d99b75c30ed5"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/db12-couple-dark.png?mw=1920&rev=52593acd228f4d1cb83d4905d1ad3b06&hash=866C926A712A144C98A7170916097255",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/db12-couple-dark.png",
+    "rev": "52593acd228f4d1cb83d4905d1ad3b06"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/db12-couple-light.png?mw=1920&rev=91bfb99292c048de8ba14818e7d55f4d&hash=EB891F77D1C1E211616A4E689AE73F1F",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/db12-couple-light.png",
+    "rev": "91bfb99292c048de8ba14818e7d55f4d"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/db12-volante-dark.png?mw=1920&rev=030298c25d754aaf90a0d12534f5e62a&hash=DAA17AA9F63C8D5F4856CAC0BCDF28E5",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/db12-volante-dark.png",
+    "rev": "030298c25d754aaf90a0d12534f5e62a"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/db12-volante-light.png?mw=1920&rev=ad39bd4de88b4ddebf44b31475571f3e&hash=B024C6F04E51E288583A33FE07C6DD68",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/db12-volante-light.png",
+    "rev": "ad39bd4de88b4ddebf44b31475571f3e"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/60thvolante/db12volante60th-dark.jpg?mw=1920&rev=da566d5900d3492f80fc6589e695a281&hash=05BB9AE86EBE81D016A8C0AF9AA3DD9B",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/60thvolante/db12volante60th-dark.jpg",
+    "rev": "da566d5900d3492f80fc6589e695a281"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/60thvolante/db12volante60th-light.jpg?mw=1920&rev=8c09486e7cda4288b71de1cd2a053ef7&hash=63BA873340C2A8EA9E4311BB34518D71",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/60thvolante/db12volante60th-light.jpg",
+    "rev": "8c09486e7cda4288b71de1cd2a053ef7"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/vanquish-night-background.jpg?mw=1920&rev=97754a1c3e0f4ebd8612b7cbb7cbf61d&hash=53678976D4763CE0C322D85B040117B8",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/vanquish-night-background.jpg",
+    "rev": "97754a1c3e0f4ebd8612b7cbb7cbf61d"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/vanquish-darker.jpg?mw=1920&rev=2f5adfb9aa654b3599142d24c71309ff&hash=59181A9F66AE7B0FDF33DCD8B008FB9B",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/vanquish-darker.jpg",
+    "rev": "2f5adfb9aa654b3599142d24c71309ff"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/vanq-volante-dark-final.jpg?mw=1920&rev=8146a4ea8b764905b4cfa7c16539c150&hash=9CB2A9F914395F766ECA255E151FB668",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/vanq-volante-dark-final.jpg",
+    "rev": "8146a4ea8b764905b4cfa7c16539c150"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/vanq-volante-light-final.jpg?mw=1920&rev=b2982791c0c84f6a9488eec0af4f7945&hash=8AD69D4221E058C76C441C78D2D5D0CE",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/vanq-volante-light-final.jpg",
+    "rev": "b2982791c0c84f6a9488eec0af4f7945"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/25thvanquish/vanquish-25th-dark.jpg?mw=1920&rev=338ed64dc3bb448c95db08a1c9df82d2&hash=B36D6D481B2AEA6703C3ABED6F5067EE",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/25thvanquish/vanquish-25th-dark.jpg",
+    "rev": "338ed64dc3bb448c95db08a1c9df82d2"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/25thvanquish/vanquish-25th-light.jpg?mw=1920&rev=c0f6a1c7dc8f43dca793ef1e3c2bcb6a&hash=3DD1307EC35A0854C66AE88F340DAEA1",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/25thvanquish/vanquish-25th-light.jpg",
+    "rev": "c0f6a1c7dc8f43dca793ef1e3c2bcb6a"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/60thvolante/vanquishvolante60th-dark.jpg?mw=1920&rev=ae4405ca032a458c9f40b3ef1c3be605&hash=AE9ECA56BCBADA02F7B820E5F4639C03",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/60thvolante/vanquishvolante60th-dark.jpg",
+    "rev": "ae4405ca032a458c9f40b3ef1c3be605"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/60thvolante/vanquishvolante60th-light.jpg?mw=1920&rev=a25d089c0267401286de0c7398608105&hash=C8ADDFA290A77C0F78645A49066C2A71",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/60thvolante/vanquishvolante60th-light.jpg",
+    "rev": "a25d089c0267401286de0c7398608105"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/dbx-s-dark.png?mw=1920&rev=06c5a8006bad497abe58f446716a3285&hash=3951FE4ECC5C23429A4D727949F83BC0",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/dbx-s-dark.png",
+    "rev": "06c5a8006bad497abe58f446716a3285"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/dbx-s-light.png?mw=1920&rev=8945045b6552425aa3ffb920a147b95e&hash=A9A8A2D6CE0038F8A4526A84785211A9",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/dbx-s-light.png",
+    "rev": "8945045b6552425aa3ffb920a147b95e"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/dbx707-dark.png?mw=1920&rev=2c5b2fba64984ad1bc28b5e52ee0b9a2&hash=72C2E70DB57607B079224F088FA7EFA2",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/dbx707-dark.png",
+    "rev": "2c5b2fba64984ad1bc28b5e52ee0b9a2"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/newmenunavigation/dbx707-light.png?mw=1920&rev=0206a007236a4a30b244da1306142619&hash=F2D68FF3FA721E5ED0C66D51B28787F6",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/newmenunavigation/dbx707-light.png",
+    "rev": "0206a007236a4a30b244da1306142619"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-lm/lm-hero-desktop.jpg?mw=1920&rev=0e1eebdc7fb54efdbdd2af34d40672fa&hash=A82A7B07733F6D6BC620195E12F54CCD",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-lm/lm-hero-desktop.jpg",
+    "rev": "0e1eebdc7fb54efdbdd2af34d40672fa"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-lm/mob-new.jpg?mw=1080&rev=417946286dec4b9f9212bb4a8c938556&hash=B2444A915692C3A7741053121E7F602F",
+    "mw": 1080,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-lm/mob-new.jpg",
+    "rev": "417946286dec4b9f9212bb4a8c938556"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-lm/0206-edits/the-car-scroller-2.jpg?rev=d6011aa0d68943ae9ab92331a11ab050",
+    "mw": 0,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-lm/0206-edits/the-car-scroller-2.jpg",
+    "rev": "d6011aa0d68943ae9ab92331a11ab050"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-lm/car-hero-mobile.jpg?rev=f1daa048439a49829c7408b6d6a3d3d2",
+    "mw": 0,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-lm/car-hero-mobile.jpg",
+    "rev": "f1daa048439a49829c7408b6d6a3d3d2"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-lm/0406-edits/engineering-tile-final.jpg?mw=1920&rev=1ced905d8c7348b583b1b93050afa684&hash=E6A0E4BE3D8658FF597ED98404522418",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-lm/0406-edits/engineering-tile-final.jpg",
+    "rev": "1ced905d8c7348b583b1b93050afa684"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-lm/rev-exterior-tile.jpg?mw=1920&rev=e04dc60101cd48f68f9f021d75784dd9&hash=C7EF64311D63EA07AB50D4607DA5C082",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-lm/rev-exterior-tile.jpg",
+    "rev": "e04dc60101cd48f68f9f021d75784dd9"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-lm/0206-edits/raw-racing-tile-new.jpg?mw=1920&rev=1ee1e4d112ca46d496d8b0263d1cd6cd&hash=6EB7DB65E4AA0E7227E831377E0121A1",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-lm/0206-edits/raw-racing-tile-new.jpg",
+    "rev": "1ee1e4d112ca46d496d8b0263d1cd6cd"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-lm/overlays/engine-overlay-1.jpg?mw=1920&rev=eac07cdf1f334d9881945767d9df58ee&hash=204B392319DBD94DE84A2E0F3F1B7AB8",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-lm/overlays/engine-overlay-1.jpg",
+    "rev": "eac07cdf1f334d9881945767d9df58ee"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-lm/overlays/engine-overlay-2---chassis.jpg?mw=1920&rev=c046e981ca0944f681582571accf6ccd&hash=41B31C3306C9265C3F604882BC3F8E17",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-lm/overlays/engine-overlay-2---chassis.jpg",
+    "rev": "c046e981ca0944f681582571accf6ccd"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-lm/0206-edits/suspension-overlay-new.jpg?mw=1920&rev=5255b32708ee473bae28bbe89a73bac0&hash=4FB070DDC9D5BAE6DC52DA0C7D90FE05",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-lm/0206-edits/suspension-overlay-new.jpg",
+    "rev": "5255b32708ee473bae28bbe89a73bac0"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-lm/overlays/engine-overlay-4---wheels.jpg?mw=1920&rev=3bc8c148b04143af95300bb5aaed720b&hash=4EA9985808F21AC345CEC15B419E32E9",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-lm/overlays/engine-overlay-4---wheels.jpg",
+    "rev": "3bc8c148b04143af95300bb5aaed720b"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-lm/0406-edits/exterior-1.jpg?mw=1920&rev=109faf03b5ce4dd58018d9d210075bd0&hash=091B559EA39DC85E2B825B51DF3186F2",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-lm/0406-edits/exterior-1.jpg",
+    "rev": "109faf03b5ce4dd58018d9d210075bd0"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-lm/0206-edits/exterior-spare-overlay.jpg?mw=1920&rev=ed0151a3cf79482dba9c61b9fdc1946c&hash=B75C4F38F60A85D290C3F5A60EAA814D",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-lm/0206-edits/exterior-spare-overlay.jpg",
+    "rev": "ed0151a3cf79482dba9c61b9fdc1946c"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-lm/0206-edits/10-valk-owners-overlay.jpg?mw=1920&rev=2b557f3585944441a72c0756834acf50&hash=47160710EC6B6C308CD273ABEF2E1DFA",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-lm/0206-edits/10-valk-owners-overlay.jpg",
+    "rev": "2b557f3585944441a72c0756834acf50"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-lm/0206-edits/raw-racing-overlay-1-new.jpg?mw=1920&rev=f8518deece364452b65efaea9c7ba707&hash=105E9F24BBB9966183360768186D9E41",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-lm/0206-edits/raw-racing-overlay-1-new.jpg",
+    "rev": "f8518deece364452b65efaea9c7ba707"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-lm/0206-edits/raw-racing-overlay-2-new.jpg?mw=1920&rev=9885ca3da2474c3eb20b8ede29c87098&hash=E27142E6408E761836EC2714780FEA93",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-lm/0206-edits/raw-racing-overlay-2-new.jpg",
+    "rev": "9885ca3da2474c3eb20b8ede29c87098"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-lm/0406-edits/the-experience-new.jpg?rev=84a277a9e57147f1b914498e82637124",
+    "mw": 0,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-lm/0406-edits/the-experience-new.jpg",
+    "rev": "84a277a9e57147f1b914498e82637124"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-lm/experience-hero-mobile.jpg?rev=48e2eba6dc224542a8bd6ba6850012e5",
+    "mw": 0,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-lm/experience-hero-mobile.jpg",
+    "rev": "48e2eba6dc224542a8bd6ba6850012e5"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-lm/driver-prep-tile-2.jpg?mw=1920&rev=bd0934804bbf447fa3eeb93f21532128&hash=BE9F2A3720FDC3175DB2E769B20DF031",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-lm/driver-prep-tile-2.jpg",
+    "rev": "bd0934804bbf447fa3eeb93f21532128"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-lm/0306-edits/tracks-tile-final.jpg?mw=1920&rev=1716987f130342f89d57821a2d8db8d7&hash=8339FAF07E70ED3EFC6C85392226CA5E",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-lm/0306-edits/tracks-tile-final.jpg",
+    "rev": "1716987f130342f89d57821a2d8db8d7"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-lm/0406-edits/off-track-tile-final-new.jpg?mw=1920&rev=c6eaf80f2e3b471b9cac0aedca09ec5f&hash=5ED81C8EBB30A3A6CB43F685724D1173",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-lm/0406-edits/off-track-tile-final-new.jpg",
+    "rev": "c6eaf80f2e3b471b9cac0aedca09ec5f"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-lm/overlays/driver-prep-overlay.jpg?mw=1920&rev=9fa28811d4d5417e8a7a0adfdce13793&hash=533796BE68231A33B03A8C73B593D7AC",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-lm/overlays/driver-prep-overlay.jpg",
+    "rev": "9fa28811d4d5417e8a7a0adfdce13793"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-lm/0206-edits/suit-up-overlayu.jpg?mw=1920&rev=b4a3effc3a1a4369ab087d30418c01d7&hash=3A0D8F19FF22268B9706B485CB20D3EB",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-lm/0206-edits/suit-up-overlayu.jpg",
+    "rev": "b4a3effc3a1a4369ab087d30418c01d7"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-lm/0406-edits/new-tracks-overlay.jpg?mw=1920&rev=ed22c0831b594b74b0cec594add1766c&hash=2E25333BA714566E39A6EDE1C1AC8814",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-lm/0406-edits/new-tracks-overlay.jpg",
+    "rev": "ed22c0831b594b74b0cec594add1766c"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-lm/0206-edits/off-track-overlay-1-new.jpg?mw=1920&rev=b3a6cc9fa1484fc99d8519b2c1e83c17&hash=43837332C65A4D4DF49C93237F7E257E",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-lm/0206-edits/off-track-overlay-1-new.jpg",
+    "rev": "b3a6cc9fa1484fc99d8519b2c1e83c17"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-lm/overlays/off-track-overlay.jpg?mw=1920&rev=40f7e5db19fb486bbb855ae3f9b4af97&hash=59CE17B05E5F342454F845963DFF9EB1",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-lm/overlays/off-track-overlay.jpg",
+    "rev": "40f7e5db19fb486bbb855ae3f9b4af97"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-lm/0306-edits/slide-1.jpg?rev=31f666016411468f97066855de5ca06b",
+    "mw": 0,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-lm/0306-edits/slide-1.jpg",
+    "rev": "31f666016411468f97066855de5ca06b"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-lm/0606/slide-1-mobile.jpg?rev=3efbe6e254cb4f9480f02e225ec9b2c6",
+    "mw": 0,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-lm/0606/slide-1-mobile.jpg",
+    "rev": "3efbe6e254cb4f9480f02e225ec9b2c6"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-lm/0306-edits/slide-2.jpg?rev=455ba082a42a4a8b9b54680c7698c67b",
+    "mw": 0,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-lm/0306-edits/slide-2.jpg",
+    "rev": "455ba082a42a4a8b9b54680c7698c67b"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-lm/0606/slide-2-mobile.jpg?rev=17df22d31703495eb0a7a9f36df92267",
+    "mw": 0,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-lm/0606/slide-2-mobile.jpg",
+    "rev": "17df22d31703495eb0a7a9f36df92267"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-lm/0306-edits/slide-3.jpg?rev=ab9fa3ccac4548159944e82095df8664",
+    "mw": 0,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-lm/0306-edits/slide-3.jpg",
+    "rev": "ab9fa3ccac4548159944e82095df8664"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-lm/0606/slide-3-mobile.jpg?rev=2575094e7da243c385d0b163c7cb8d09",
+    "mw": 0,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-lm/0606/slide-3-mobile.jpg",
+    "rev": "2575094e7da243c385d0b163c7cb8d09"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-lm/0306-edits/slide-4.jpg?rev=e20ad33ddf9746a399aa137238d96126",
+    "mw": 0,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-lm/0306-edits/slide-4.jpg",
+    "rev": "e20ad33ddf9746a399aa137238d96126"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-lm/0606/slide-4-mobile.jpg?rev=101787bc0cf94be38768ed1f4c7c635a",
+    "mw": 0,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-lm/0606/slide-4-mobile.jpg",
+    "rev": "101787bc0cf94be38768ed1f4c7c635a"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-lm/0306-edits/slide-final.jpg?rev=6f0b3f767b2d4e78a20cbc2b6b5697a6",
+    "mw": 0,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-lm/0306-edits/slide-final.jpg",
+    "rev": "6f0b3f767b2d4e78a20cbc2b6b5697a6"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-lm/0606/final-slide-mobile.jpg?rev=555f7f6a2c28419c81a85b38211bee5a",
+    "mw": 0,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-lm/0606/final-slide-mobile.jpg",
+    "rev": "555f7f6a2c28419c81a85b38211bee5a"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-lm/all-models-desktop.jpg?mw=1920&rev=d231ea3060c3406d9a3463556c5eee7d&hash=02B2DF51D2E3FC473A32F68312F84116",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-lm/all-models-desktop.jpg",
+    "rev": "d231ea3060c3406d9a3463556c5eee7d"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-lm/all-models-mobile.jpg?mw=1080&rev=80e88e41b1c64963a9fd474cbfed8c4d&hash=F527826211F8B49184F21156EB8B8585",
+    "mw": 1080,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-lm/all-models-mobile.jpg",
+    "rev": "80e88e41b1c64963a9fd474cbfed8c4d"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-lm/faq-desktop.jpg?mw=1920&rev=5fae424bdafa4b8bb241a5e90c424dd6&hash=DD09C66578B6857B2994C2F8FF467E34",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-lm/faq-desktop.jpg",
+    "rev": "5fae424bdafa4b8bb241a5e90c424dd6"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-lm/faq-mobile.jpg?mw=1080&rev=2de1062808454b48932189204a4c6094&hash=B5AF4AC6FEEEFB1EE33F3EDF70C62363",
+    "mw": 1080,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-lm/faq-mobile.jpg",
+    "rev": "2de1062808454b48932189204a4c6094"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-lm/enquire-desktop.jpg?mw=1920&rev=b5bee9f67b4e4e2d927253b609022c9a&hash=37F01A719C479C3C27CD5B4A6B15C1F0",
+    "mw": 1920,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-lm/enquire-desktop.jpg",
+    "rev": "b5bee9f67b4e4e2d927253b609022c9a"
+   },
+   {
+    "url": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-lm/enquire-mobile.jpg?mw=1080&rev=5941011c88ef41abbbf1274e2df13208&hash=10FF799C70DE8AF7FD185E0D1E230583",
+    "mw": 1080,
+    "base": "https://www.astonmartin.com/-/media/models---valkyrie-2024/valkyrie-lm/enquire-mobile.jpg",
+    "rev": "5941011c88ef41abbbf1274e2df13208"
+   }
+  ],
+  "videos": [],
+  "jsonld": [],
+  "textlen": 22590
+ }
+}

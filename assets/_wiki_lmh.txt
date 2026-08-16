@@ -1,0 +1,226 @@
+=== INFOBOX ===
+The Aston Martin Valkyrie AMR-LMH , [ 3 ] also referred to as the Aston Martin Valkyrie Hypercar , [ 4 ] is a sports prototype developed by Aston Martin Racing and Multimatic to compete in the FIA World Endurance Championship in the Hypercar category and the IMSA SportsCar Championship in the GTP category, respectively. [ 5 ] [ 6 ] The car is a heavily modified racing version of the Aston Martin Valkyrie AMR Pro fitted to Le Mans Hypercar regulations and is, so far, the only car in its class derived from a preexisting production car. [ 7 ]
+The Valkyrie AMR-LMH made its debut at the 2025 Qatar 1812 km . [ 8 ] The car was originally slated to make its first appearance at the 2025 24 Hours of Daytona ; however, Aston Martin opted to skip the event in favour of completing more internal testing. [ 9 ] It is the first sports prototype to race with a V12 engine in top-class endurance racing in 14 years, since the Peugeot 908 HDi FAP and the Lola-Aston Martin B09/60 each raced in 2011.
+
+## Background
+
+## Initial plans
+Aston Martin was one of the first manufacturers to commit to the Le Mans Hypercar class in 2019, with plans to start competition with at least two factory cars in the 2021 FIA World Endurance Championship . The car was planned to compete without a hybrid system, despite the road car containing one. [ 10 ] Alongside the factory entries, which were to be fielded by Multimatic Motorsports , R-Motorsport were set to run two customer cars. [ 11 ] [ 12 ]
+In February 2020, Aston Martin announced that they would be cancelling the project, citing the Automobile Club de l'Ouest 's decision to allow LMDh sports cars to participate in the Hypercar class. [ 12 ] The LMDh regulations were a more cost-effective solution for manufacturers, which meant customer racing programs were less expensive to invest in and running costs were viable for customer teams. The convergence of the two rulesets significantly impacted Aston Martin's financial model for the Valkyrie race car, as they had anticipated that sales of the Valkyrie to customer teams would constitute a substantial portion of the program's funding. [ 13 ] According to Aston Martin executive David King, the development of the project had nearly progressed towards the construction of a fully operational model at the time, with testing set for spring that same year. [ 12 ]
+Around this time, Aston Martin had also joined Formula One for the first time in 61 years , which was followed by an internal restructuring of the British marque's racing division with a primary focus on the company's Formula One and LM GTE programmes. [ 12 ] Despite Aston Martin's decision to pause the project, they remained open to future participation in the Hypercar class. [ 14 ]
+
+## 2023 revival
+The project was revived in October 2023. [ 15 ] Aston Martin planned to enter at least one car in both the FIA World Endurance Championship and the IMSA SportsCar Championship in 2025, run by factory team The Heart of Racing . [ 5 ] [ 6 ] This made them the first Le Mans Hypercar manufacturer to enter the IMSA series, which up to that point only had LMDh cars participate. [ 16 ]
+Aston Martin continued with their original plan to compete without a hybrid system, stating unwanted complexity and extra weight, as Le Mans Hypercar regulations would have required heavily redesigning the Valkyrie to accommodate relocating the hybrid system from the rear axle to the front axle and installing the necessary cooling equipment. [ 17 ] It uses the same 6.5-litre Cosworth RA V12 used by all versions of the Valkyrie sports car, but is extensively modified to run leaner in order to meet the Hypercar class performance window and to stay reliable throughout all stages of an endurance race. [ 3 ] [ 18 ] The gearbox is a 7-speed sequential manual developed by Xtrac . [ 19 ] Despite not using a hybrid, the car is able to launch from a standstill without requiring engine power, using a combined starter and alternator motor system that Aston Martin calls a 'starternator'. [ 20 ]
+The car, officially named the Valkyrie AMR-LMH, [ 3 ] was rolled out in the summer of 2024, ahead of an extensive testing program by Aston Martin and The Heart of Racing at Silverstone Circuit and Donington Park with drivers Darren Turner , Harry Tincknell , and Mario Farnbacher . [ 21 ] [ 22 ] The team also participated in sanctioned tests with the car later that year, testing at Bahrain International Circuit and Daytona respectively. [ 23 ] In November 2024, Aston Martin announced that the car would make its global racing debut at the 2025 Qatar 1812 km , opting to skip the 2025 24 Hours of Daytona to perform further testing and development. [ 9 ] They also announced that both cars that would be racing in the FIA World Endurance Championship would be using numbers #007 and #009, both taken from their Le Mans-winning Aston Martin DBR9 . [ 24 ]
+
+## Valkyrie LM
+In celebration of their return to top class endurance racing at the 24 Hours of Le Mans , Aston Martin introduced an unrestricted track-only version of the Valkyrie AMR-LMH in June 2025 called the Valkyrie LM. [ 25 ] The car is nearly identical to its racing counterpart, with only certain racing equipment removed such as ballast and the mandated electronics required for competition in both the FIA World Endurance Championship and the IMSA SportsCar Championship . The Cosworth V12 powertrain was carried over from the race car, reconfigured in order to use standard fuels. [ 26 ] Production is limited to 10 examples. [ 27 ] Through Aston Martin's 'Unleashed' program, owners of the Valkyrie LM are able to drive the car on different racing circuits worldwide with comprehensive support from Aston Martin engineers. [ 28 ]
+
+## Competition history
+The driver lineups for all three cars were confirmed in February 2025, primarily consisting of experienced sports car racing drivers from Aston Martin Racing , The Heart of Racing , and Multimatic Motorsports . Two cars were entered for the FIA World Endurance Championship ; the #007, driven by Harry Tincknell and Tom Gamble , and the #009, driven by Alex Riberas and Marco Sørensen . [ 24 ] [ 29 ] Ross Gunn and Roman De Angelis completed the #23 crew for the IMSA SportsCar Championship . [ 24 ]
+The Valkyrie AMR-LMH endured a difficult debut at the 2025 Qatar 1812 km , with the #007 retiring with a transmission issue and the #009 completing the race 23 laps down, though the team remained encouraged by the car's potential. [ 30 ] Positive progress continued following Qatar, [ 31 ] recording top 10 finishes in every round of the first half of the IMSA season, [ 32 ] running in points-scoring positions at the 2025 6 Hours of Spa-Francorchamps , [ 33 ] and completing the 2025 24 Hours of Le Mans without mechanical issues. [ 34 ] Aston Martin showed further competitiveness in subsequent races, including a 6th-place finish at the 2025 SportsCar Grand Prix , [ 35 ] fighting in the top 5 at the 2025 Lone Star Le Mans before retiring due to overheating issues, [ 36 ] and qualifying in 3rd before finishing 5th with the #009 in the 2025 6 Hours of Fuji . [ 37 ] [ 38 ] At the 2025 Petit Le Mans , the Valkyrie AMR-LMH scored its first podium finish in either series, finishing 2nd overall just five seconds behind the race-winning Cadillac . [ 39 ] [ 40 ] Mattia Drudi later drove the Valkyrie AMR-LMH in the FIA World Endurance Championship 's post-season rookie test. [ 41 ]
+
+## Racing results
+
+## Complete FIA World Endurance Championship results
+* Season in progress.
+
+## Complete IMSA SportsCar Championship results
+* Season in progress.
+
+## Complete IMSA Michelin Endurance Cup results
+* Season in progress.
+
+## See also
+Aston Martin Valkyrie
+
+## References
+↑ Nurnberger, Miles (23 July 2024). "Fantastic witnessing the Valkyrie LMH car run at Donington Park last week..." – via Instagram .
+↑ Kilbey, Stephen (5 February 2025). "Carter (AMR): Valkyrie A "Very Capable Package" After Development Programme" . Sportscar365 . Retrieved 28 April 2025 .
+1 2 3 "Aston Martin Valkyrie AMR-LMH hypercar hits the track" . Aston Martin . 22 July 2024. Archived from the original on 15 March 2026 . Retrieved 14 September 2024 .
+↑ "Aston Martin Vantage on podium at Motul Sportscar Endurance Grand Prix with Car Blanche" . Aston Martin . 3 August 2026. Archived from the original on 7 August 2026 . Retrieved 7 August 2026 .
+1 2 Dagys, John (14 June 2024). "Heart of Racing Set for Two-Car Valkyrie Hypercar Effort" . Sportscar365 . Retrieved 14 September 2024 .
+1 2 Goodwin, Graham (8 October 2024). "Heart Of Racing Confirms GTP Aston Martin Valkyrie For 2025 IMSA Season" . Dailysportscar . Retrieved 9 October 2024 .
+↑ "Aston Martin returns to Le Mans to fight for overall victory with Valkyrie hypercar" . Aston Martin . 4 October 2023. Archived from the original on 7 June 2026 . Retrieved 14 September 2024 .
+↑ Vijayenthiran, Viknesh (21 November 2024). "Aston Martin names first drivers for Valkyrie LMH race car" . Motor Authority . Retrieved 21 November 2024 .
+1 2 Dagys, John (21 November 2024). "Aston Martin Valkyrie AMR-LMH Set for Qatar Race Debut" . Sportscar365 . Retrieved 21 November 2024 .
+↑ Goodwin, Graham (13 June 2019). "Aston Martin To Bring Valkyrie Hypercar To FIA WEC & Le Mans" . Dailysportscar . Retrieved 12 December 2023 .
+↑ Goodwin, Graham (21 October 2019). "Hypercar/ DPi 2.0/ Class One & All That" . Dailysportscar . Retrieved 13 December 2023 .
+1 2 3 4 Dagys, John (19 February 2020). "Aston Martin Puts LM Hypercar Program "On Hold" " . Sportscar365 . Retrieved 26 July 2025 .
+↑ Dagys, John (22 February 2020). "LMDh "Damaged" Customer Aston LMH Financial Model" . Sportscar365 . Retrieved 26 July 2025 .
+↑ Kimberley, Matt (19 February 2020). "Aston Martin Has Cancelled Its Valkyrie-Based WEC Entry" . CarThrottle . Retrieved 12 December 2023 .
+↑ Smith, Fred (4 October 2023). "Aston Martin Is Taking the V-12 Valkyrie Hypercar to Le Mans" . Road & Track . Retrieved 28 September 2025 .
+↑ Watkins, Gary (4 October 2023). "Aston Martin to return to Le Mans 24 Hours in 2025 with Valkyrie LMH" . Autosport . Retrieved 2 December 2023 .
+↑ Cotton, Andrew (5 February 2025). "Aston Martin Reveals Further Details of Valkyrie LMH" . Racecar Engineering . Retrieved 7 June 2026 .
+↑ Pearson, Ken (9 February 2025). "Reborn to race: the Aston Martin Valkyrie AMR-LMH" . Rush Magazine . Retrieved 30 January 2025 .
+↑ Bartholomew, Mike (5 February 2025). "The Aston Martin Valkyrie AMR-LMH Is Here To Fill Le Mans With Glorious V12 Noise" . CarThrottle . Retrieved 17 March 2025 .
+↑ Pruett, Marshall; James, Ian (13 March 2025). Aston Martin Valkyrie GTP Tech Tour | Inside the Cosworth V12 GTP Car . IMSA .  Event occurs at 05:25 . Retrieved 11 December 2025 – via YouTube . We have something really trick in the back which is connected to the gearbox underneath here, it's called a 'starternator'. It's a starter motor, it's an alternator, and it's also a motor, so it can drive us forward and it's also what we use for reverse gear. It's a catch-all to take care of those little things.
+↑ Kilbey, Stephen (22 July 2024). "Aston Martin Valkyrie AMR-LMH Completes First Shakedown Runs" . Dailysportscar . Retrieved 12 September 2024 .
+↑ Euwema, Davey (22 July 2024). "Valkyrie AMR-LMH's First Runs an "Immensely Proud" Moment" . Sportscar365 . Retrieved 14 September 2024 .
+↑ Grace, Jonathan (15 November 2024). "James: Heart of Racing 'Hitting Milestones' With Valkyrie Testing" . Sportscar365 . Retrieved 18 November 2024 .
+1 2 3 4 5 6 7 8 9 10 11 12 Euwema, Davey (4 February 2025). "Heart of Racing Locks in Valkyrie LMH Lineups" . Sportscar365 . Retrieved 5 February 2025 .
+↑ Holding, Joe (8 June 2025). "You could own* this Le Mans-spec Aston Martin Valkyrie LM" . Top Gear . Retrieved 12 June 2025 .
+↑ "Aston Martin Reveals Ultra-Exclusive Valkyrie LM for Customers" . IMSA . 9 June 2025 . Retrieved 12 June 2025 .
+↑ Silvestro, Brian (8 June 2025). "Aston Martin Valkyrie LM Gives Customers Their Own Le Mans Car" . Motor1.com . Retrieved 12 June 2025 .
+↑ Bharath, Khris (8 June 2025). "Aston Martin Valkyrie LM Unleashed: Track-Only Hypercar Limited to Just 10 Units" . duPont Registry . Retrieved 12 June 2025 .
+↑ "Aston Martin THOR Team confirms Riberas and Tincknell for 2025 Valkyrie world title assault" . Aston Martin . 21 November 2024. Archived from the original on 7 June 2026 . Retrieved 21 November 2024 .
+↑ "Aston Martin says Qatar showed 'real evidence' of Valkyrie's potential | FIAWEC" . FIA WEC . 10 March 2025 . Retrieved 12 June 2025 .
+↑ Dagys, John (12 July 2025). "Tincknell: "Every Race Has Been a Progression" With Valkyrie" . Sportscar365 . Retrieved 21 July 2025 .
+↑ "Aston Martin Valkyrie continues to blaze IMSA trail at historic Watkins Glen International" . Aston Martin . 20 June 2025. Archived from the original on 7 June 2026 . Retrieved 21 July 2025 .
+↑ Euwema, Davey (15 May 2025). "Sorensen Encouraged by Valkyrie Progress After Spa Showing" . Sportscar365 . Retrieved 21 July 2025 .
+↑ Rehman, Mohammed (19 June 2025). "Aston Martin on Le Mans Valkyrie debut: 'We've arrived, we're present, we finished' " . Motorsport Week . Retrieved 21 July 2025 .
+↑ Dagys, John (3 August 2025). "BMW M Team RLL Takes Strategic Road America 1-2 Win" . Sportscar365 . Retrieved 4 August 2025 .
+↑ Watkins, Gary (8 September 2025). "Estre wins WEC Lone Star Le Mans at COTA for Porsche Penske" . Motorsport.com . Retrieved 8 September 2025 .
+↑ Kilbey, Stephen (27 September 2025). "Cadillac Locks Out Front Row In Fuji As Lynn Shines" . Sportscar365 . Retrieved 28 September 2025 .
+↑ Euwema, Davey (28 September 2025). "Alpine Breaks Through for Hard-Fought 6H Fuji Win" . Sportscar365 . Retrieved 28 September 2025 .
+↑ Beaver, Victoria (12 October 2025). "Cadillac Wins Petit Le Mans, Porsche Locks Up Both GTP Championships" . Road & Track . Retrieved 12 October 2025 .
+↑ O’Connell, R. J. (13 October 2025). "Aston Martin Valkyrie Shows Its Competitive Worth With Petit Le Mans Podium" . Dailysportscar . Retrieved 8 June 2026 .
+↑ O’Connell, R. J. (2 December 2025). "Aston Martin Valkyrie Ready To Deliver More In Year Two" . Dailysportscar . Retrieved 7 June 2026 .
+1 2 3 4 5 6 7 8 O'Connell, RJ (2 December 2025). "Aston Martin THOR Team Announces 2026 IMSA Drivers" . Dailysportscar . Retrieved 2 December 2025 .
+↑ "2025 IMSA WeatherTech SportsCar Championship Points - Official.pdf" (PDF) . imsa.results.alkamelcloud.com . Alkamel Systems. 17 October 2025. Archived (PDF) from the original on 23 October 2025 . Retrieved 24 October 2025 .
+↑ "2025 IMSA Michelin Endurance Cup Points" (PDF) . imsa.results.alkamelcloud.com . Al Kamel Systems. 17 October 2025. Archived (PDF) from the original on 4 January 2026 . Retrieved 4 January 2026 .
+v
+t
+e
+DB3
+DB3S
+DBR1
+DBR2
+DBR3
+T70 ( Lola )
+NRA/C2 ( Nimrod )
+EMKA Aston Martin
+AMR1
+AMR2
+B08/60 ( Lola )
+DBR1-2 ( Lola )
+AMR-One
+Valkyrie AMR-LMH
+DP212
+DP214
+DP215
+Aston Martin RHAM/1
+DBR9
+DBRS9
+V8 Vantage N24
+V8 Vantage GT2
+V8 Vantage GT4
+V12 Vantage GT3
+Vulcan
+Vantage GTE (2018)
+Vantage GT3 (2019)
+Vantage GT4 (2019)
+Vantage DTM
+Vantage GT8R
+v
+t
+e
+Ferrari 499P
+Peugeot 9X8
+Toyota GR010 Hybrid
+Aston Martin Valkyrie AMR-LMH
+Alpine A424
+BMW M Hybrid V8
+Cadillac V-Series.R
+Porsche 963
+Aston Martin Vantage AMR GT3 Evo
+BMW M4 GT3 Evo
+Chevrolet Corvette Z06 GT3.R
+Ferrari 296 GT3
+Ford Mustang GT3
+Mercedes-AMG GT3 Evo
+Lexus RC F GT3
+McLaren 720S GT3 Evo
+Porsche 911 GT3 R (992)
+v
+t
+e
+Acura ARX-06
+BMW M Hybrid V8
+Cadillac V-Series.R
+Lamborghini SC63
+Porsche 963
+Aston Martin Valkyrie AMR-LMH
+Oreca 07
+Aston Martin Vantage AMR GT3 Evo
+BMW M4 GT3 Evo
+Chevrolet Corvette Z06 GT3.R
+Ferrari 296 GT3
+Ford Mustang GT3
+Lamborghini Huracán GT3 Evo 2
+Lexus RC F GT3
+Mercedes-AMG GT3 Evo
+Porsche 911 GT3 R (992)
+Aston Martin Vantage AMR GT3 Evo
+BMW M4 GT3 Evo
+Chevrolet Corvette Z06 GT3.R
+Ferrari 296 GT3
+Ford Mustang GT3
+Lamborghini Huracán GT3 Evo 2
+Lexus RC F GT3
+Mercedes-AMG GT3 Evo
+Porsche 911 GT3 R (992)
+v
+t
+e
+Ferrari 499P
+Peugeot 9X8
+Toyota TR010 Hybrid
+Aston Martin Valkyrie AMR-LMH
+Alpine A424
+BMW M Hybrid V8
+Cadillac V-Series.R
+Genesis GMR-001
+Aston Martin Vantage AMR GT3 Evo
+BMW M4 GT3 Evo
+Chevrolet Corvette Z06 GT3.R
+Ferrari 296 GT3 Evo
+Ford Mustang GT3 Evo
+Mercedes-AMG GT3 Evo
+Lexus RC F GT3
+McLaren 720S GT3 Evo
+Porsche 911 GT3 R (992.2)
+v
+t
+e
+Acura ARX-06
+BMW M Hybrid V8
+Cadillac V-Series.R
+Porsche 963
+Aston Martin Valkyrie AMR-LMH
+Oreca 07
+BMW M4 GT3 Evo
+Chevrolet Corvette Z06 GT3.R
+Ferrari 296 GT3 Evo
+Ford Mustang GT3 Evo
+Lamborghini Huracán GT3 Evo 2
+Lamborghini Temerario GT3
+Lexus RC F GT3
+McLaren 720S GT3 Evo
+Mercedes-AMG GT3 Evo
+Porsche 911 GT3 R (992.2)
+Aston Martin Vantage AMR GT3 Evo
+BMW M4 GT3 Evo
+Chevrolet Corvette Z06 GT3.R
+Ferrari 296 GT3 Evo
+Ford Mustang GT3 Evo
+Lamborghini Huracán GT3 Evo 2
+Lexus RC F GT3
+Mercedes-AMG GT3 Evo
+Porsche 911 GT3 R (992.2)
+Category: Le Mans Hypercar
+Constructor: Aston Martin ( Multimatic )
+Designers: Marek Reichman (Chief Creative Officer) Miles Nurnberger (Director of Design) [ 1 ] Adam Carter (Head of Endurance Motorsport) [ 2 ]
+Predecessor: Aston Martin AMR-One
+Engine: Aston Martin - Cosworth RA 6,499 cc (396.6 cu in) 65° V12 naturally aspirated , mid-mounted longitudinal
+Transmission: Xtrac 7-speed sequential manual
+Power: 500 kW; 680 PS (671 bhp)
+Fuel: TotalEnergies ( WEC ) VP Racing Fuels ( IMSA )
+Lubricants: Mobil 1 0W-40 fully-synthetic motor oil
+Tyres: Michelin radial slicks with OZ one-piece forged alloys, 29/71-18 front and 34/71-18 rear
+Notable entrants: Aston Martin THOR Team
+Notable drivers: Roman De Angelis Tom Gamble Ross Gunn Alex Riberas Marco Sørensen Harry Tincknell
+Debut: 2025 Qatar 1812 km
+Last event: 2026 Motul SportsCar Endurance Grand Prix
+Races: Races Wins Podiums Poles F/Laps 27 0 1 0 0

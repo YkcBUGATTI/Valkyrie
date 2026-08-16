@@ -1,0 +1,130 @@
+
+## Nomenclature
+The original codename was Nebula , an acronym for Newey, Red Bull and Aston Martin Lagonda. The name AM-RB 001 was chosen as the final codename, and was decided since Aston Martin and Red Bull Racing had collaborated all throughout the project. AM stood for Aston Martin and RB stood for Red Bull. 001 may be a reference to it being the first production car the two have collaborated on.
+In March 2017, Aston Martin revealed that the car would be named Valkyrie , after the Norse mythological figures. [ 13 ] According to Red Bull, the name was chosen to continue the tradition of "V" nomenclature of Aston Martin's automobiles and to distinguish the vehicle as a high-performance car (the "V" was used as the distinguishing factor). [ 14 ] The Aston Martin Valhalla , which is known as "Son of Valkyrie", likewise has its origin in the mythological location Valhalla .
+
+## Design
+In February 2017, Aston Martin revealed most of the vehicle's specifications. [ 15 ] The final specifications were revealed later in the year. Several manufacturers, other than Aston Martin and Red Bull Racing, took part in the Valkyrie's construction, those being Cosworth , Ricardo , Rimac Automobili , Multimatic , Alcon, Integral Powertrain Ltd, Bosch , Surface Transforms, Wipac , HPL Prototypes, 3T Additive Manufacturing Polymers Ltd. (Prototal UK), Martins Rubber Company and Michelin .
+
+## Exterior features
+A show car was initially unveiled to the public in order to give the public an idea of its design. The design was in a near-production-ready form. [ 16 ]
+The exterior of the car is extremely aerodynamic for a sports car , with an extensively open underfloor that works on the Bernoulli and Venturi principles for purposes of ground effect , and is capable of producing 18 kN (1,800 kgf) of downforce at high speed. Gaps on top of the car (for example, above the front axle and the roof intake) and a large front splitter aid in generating downforce. [ 17 ] [ 18 ] [ 19 ] The wheels are also designed to manage the airflow and be as light as possible at the same time.
+Red Bull Advanced Technologies was responsible for the aerodynamic profile of the car, while Aston Martin, under the direction of Miles Nurnberger, oversaw much of the exterior design. According to Adrian Newey, “the green painted surfaces of that model are effectively Aston… while the black surfaces of canopy, rear wing and everything below the waistline are ours.” [ 20 ]
+
+## Interior features
+The interior design was leaked online on 20 June 2017 and gave a preview of the car's design. The interior has no gauge cluster, but rather a collection of screens. By the left and right corners are the screens for the camera side mirrors. One screen sits at the top of the center console, which may have a collection of live vehicle information, and regular vehicle controls, but this is not confirmed. A screen is used on the race-inspired steering wheel and acts as the driver gauge cluster. Dials and switches sit beside the wheel screen to allow for easier changes without driving interruption. The seats, formed from hollow carbon fibre straight into interior perimeter, are bucket variants, and have two seat belts for each car seat. [ 21 ]
+Because of the extremely small interior and doors (which are practically roof-only hatches), each seat is designed specifically for the owner's body shape through 3D scanning . A removable steering wheel provides slightly more space for entry and exit. [ 22 ] [ 23 ] [ 24 ]
+
+## Specifications
+The car contains a 6.5-litre naturally-aspirated V12 engine tailored by Cosworth , which produces around 746 kW; 1,014 PS (1,000 hp) at 10,500 rpm, with a redline of 11,100 rpm. This will make it the most powerful naturally-aspirated engine ever to be fitted to a production road car. With a KERS -style boost system akin to those fitted to F1 cars, the Valkyrie's hybrid system was developed by two main technical partners; Integral Powertrain Ltd, who supplied the bespoke electric motor, and Rimac for the lightweight hybrid battery system. [ 25 ] [ 26 ] As a result, the full hybrid system contributes an additional 120 kW; 160 PS (160 bhp) of power and a further 280 N⋅m of available torque with the certified max power output of the Valkyrie at 865 kW; 1,176 PS (1,160 hp) @ 10,500rpm. Equally, with the full hybrid system, peak torque stands at 900 N⋅m (664 lbf⋅ft) at 6,000 rpm.
+At the same time the power output figures were released, the weight was announced to be 1,030 kg (2,271 lb) , surpassing the intended 1:1 power-to-weight ratio with 840 kW; 1,142 PS (1,126 hp) per ton. [ 27 ] The car can accelerate to 100 km/h (62 mph) from a standstill in a time of 2.6 seconds. [ 28 ] The exhausts exit at the top of the car, near the engine, similar to those of Formula One cars and the Porsche 918 Spyder . [ 29 ]
+Bosch supplies the Valkyrie's ECU , traction control system , and ESP . The braking system is provided by Alcon and Surface Transforms. The front and rear lights are manufactured by Wipac. The car has all-carbon fibre bodywork [ 30 ] and is installed with a carbon fibre Monocell from manufacturer Multimatic. [ 31 ] Michelin supplies the Valkyrie with the company's high-performance Sport Cup 2 tyres, having sizes of 265/35-ZR20 at the front and 325/30-ZR21 at the rear. [ 32 ] The wheels are constructed out of lightweight magnesium alloy ( 20 in (510 mm) front, 21 in (530 mm) rear) with race-spec centre-lock wheel nuts to reduce mass. The Valkyrie and the Red Bull Racing RB16 had its first shakedown at Silverstone Circuit , where drivers Max Verstappen and Alexander Albon drove the car around the track.
+
+## Production
+Aston Martin CEO Andy Palmer announced a policy in a Twitter post on 4 July 2017, stating that if the owner were to "flip" the car (buy and sell quickly to make a profit), the owner would not be provided the opportunity to buy any further special edition models from Aston Martin. This policy is also used for Ford 's new GT [ 33 ] and Mercedes-AMG 's ONE sports cars. [ 34 ]
+Production of the Valkyrie ran from November 2021 up to December 2024. Aston Martin produced 150 coupés, 85 Spiders, and 40 AMR Pro models for a total of 275 units. [ 1 ] [ 2 ]
+Ten cars, fewer than planned, were delivered in the last quarter of 2021, causing the company to miss its profit target. The company said that this only affected timing, all production had been sold but not yet delivered. [ 35 ] The Valkyrie Spider model was twice oversubscribed. [ 35 ]
+
+## Variants
+
+## Valkyrie AMR Pro
+A track-only variant of the Valkyrie called the Valkyrie AMR Pro was introduced at the 2018 Geneva Motor Show . Only 25 units were intended to be produced, all of which had already been sold. The AMR Pro uses the same 6.5-litre naturally-aspirated V12 engine as used in the Valkyrie road car without the KERS system. The engine is also modified, which means the AMR Pro will have up to 820 kW (1,100 hp) (estimated 870–970 kW (1,160–1,300 hp) ); which is more than its road-legal counterpart.
+The AMR Pro uses smaller 18-inch wheels at the front and rear. [ 36 ] This is to allow the Michelin racing tyres (based on LMP1 race car tyres) to fit the car, with F1 -inspired carbon-carbon brakes to aid braking performance. The air-conditioning system and infotainment screens have been removed and replaced with racing counterparts. [ 37 ] The car will be able to generate 3.3 G lateral force during cornering and 3.5 G during braking. Its top speed is intended to be higher than the road car, at 402 km/h (250 mph) . [ 38 ] The car's exhaust system will have very minimal engine-silencing parts. [ 36 ]
+In 2021, the production-intent AMR Pro was unveiled, having a significantly more aggressive design, with an LMP1-style rear aerodynamic fin, a large dual-element rear wing, and a large rear diffuser . [ 38 ] In terms of this production-intent design, it looks more similar to the regular (but elongated) Valkyrie, than it did to the original concept. The number of produced cars was also increased from 25 to 40.
+
+## Valkyrie Spider
+In August 2021, Aston Martin announced a Spider variant for the 2023 model year. Production commenced in the second half of 2022 with a stated intent of 85 examples being produced. [ 39 ] The Valkyrie Spider has a removable carbon fibre roof and trades the coupé model's gullwing doors for a pair of front-hinged dihedral butterfly doors .
+
+## Valkyrie LM
+Aston Martin introduced an unrestricted track-only version of the Valkyrie AMR-LMH in June 2025 called the Valkyrie LM, made to celebrate Aston Martin's return to competing for the outright victory at the 24 Hours of Le Mans endurance race. [ 40 ] The Valkyrie LM is nearly identical to its racing counterpart, with the ballast and electronics mandated for FIA and IMSA competition removed. Only 10 examples are set to be produced. [ 41 ]
+
+## Motorsport
+Aston Martin was one of the first manufacturers to commit to the Le Mans Hypercar class in 2019, with plans to start competition with at least two factory cars in the 2021 FIA World Endurance Championship . The car was planned to compete without a hybrid system, despite the road car containing one. [ 42 ] The initial project was scrapped in February 2020, following the Automobile Club de l'Ouest 's decision to allow LMDh vehicles to participate in the Hypercar project, as well as Aston Martin's entrance into Formula One , which left the company with limited finances to support the programme. [ 43 ] The Valkyrie Hypercar project was revived three years later in 2023. [ 44 ]
+Based on the AMR Pro model, Aston Martin made extensive modifications to the Valkyrie to make it eligible for competition in both the FIA World Endurance Championship and IMSA SportsCar Championship , including a new regulated design, a leaner running race-tuned version of the 6.5-litre Cosworth RA V12 engine, and a complete removal of the hybrid system. [ 45 ] Named the Valkyrie AMR-LMH , the car was initially planned to make its debut at the 2025 24 Hours of Daytona with The Heart of Racing team. [ 46 ] The team later opted to sit out the Daytona race in favour of more testing time. The car made its racing debut at the 2025 Qatar 1812 km . [ 47 ]
+
+## Media
+In March 2022, at the opening round of the 2022 Formula One World Championship at the Bahrain International Circuit , the Valkyrie AMR Pro was driven for two laps. [ 48 ]
+
+## Car show appearances
+In July 2016, the Valkyrie was unveiled as a non-working full-scale model in Aston Martin's headquarters in Gaydon . [ 49 ]
+In November 2016, the car was featured in a private Aston Martin showcase at the Etihad Towers in Abu Dhabi , the day before the 2016 Formula One Abu Dhabi Grand Prix. [ 50 ]
+From December 2016 to February 2017, the car was featured in the 2017 Festival Automobile International in Paris. [ 51 ]
+In February 2017, the car was featured as the star car in the 2017 Canadian International Auto Show in Toronto. [ 52 ]
+In March 2017, the Valkyrie was featured at the Aston Martin stand along with the new Vanquish S Volante , the Rapide S AMR , and the V8 Vantage AMR-Pro at the 2017 Geneva Motor Show in Geneva, Switzerland. [ 53 ]
+
+## See also
+List of production cars by power output
+Mercedes-AMG One
+Rimac Automobili
+Red Bull RB17
+
+## References
+1 2 "Aston Martin Valkyrie Production Starts, First Hypercar Completed" . Motor1.com . 4 November 2021.
+1 2 "Aston Martin Wrapping Up Valkyrie Production by the End of the Year" . autoevolution . 30 November 2024.
+↑ Torr, Feann (25 August 2019). "BEST OF BRITISH: Aston Martin secrets revealed" . Motoring .
+↑ Devos, Alain (3 March 2019). "Aston Martin Valkyrie-designer Miles Nurnberger over de strafste sportwagen ooit" . Auto Wereld.be . Archived from the original on 3 March 2018 . Retrieved 2 November 2019 .
+↑ Duff, Mike (12 August 2021). "Aston Martin's 1139-HP Valkyrie Spider Loses Roof, Gains Thrills" . Car and Driver .
+↑ "Aston Martin Valkyrie" .
+↑ "Driveline & transmissions" . automotive.ricardo.com .
+↑ "How Mate Rimac is supercharging electric cars" . Financial Times . 21 November 2018.
+↑ "Maintenance and Technical Data 6.33". Aston Martin Valkyrie Owner's Guide (PDF) . 2021.
+↑ "2021 Aston Martin Valkyrie Specs & Performance" . encycarpedia.com . Retrieved 15 June 2023 .
+↑ "Aston Martin and Red Bull Racing unveil radical AM-RB 001 hypercar" . Aston Martin . 5 July 2016 . Retrieved 24 August 2016 .
+↑ "Christian Horner: 'Adrian Newey fully motivated again' " . Sportsmole . 2016 . Retrieved 24 August 2016 .
+↑ Rix, Jack (6 March 2017). "Aston Martin names its hypercar 'Valkyrie' " . Top Gear . Retrieved 6 March 2017 .
+↑ Schran, Oliver (14 March 2017). "Codename AM-RB 001 becomes Aston Martin Valkyrie" . Red Bull . Retrieved 16 March 2017 .
+↑ Padeanu, Adrian (15 February 2017). "Aston Martin AM-RB 001 will rock a Cosworth 6.5-litre V12 engine" . Motor1.com . Archived from the original on 16 February 2017 . Retrieved 15 February 2017 .
+↑ Sheehan, Sam (14 June 2017). "Aston Martin Valkyrie revealed in most production-ready form yet" . Autocar . Archived from the original on 22 June 2017 . Retrieved 15 June 2017 .
+↑ Anderson, Brad (8 March 2017). "New Aston Martin Valkyrie Scares Off All Other Hypercars In Geneva" . Carscoops . Retrieved 11 March 2017 .
+↑ Perkins, Chris (14 June 2017). "Hey! The Aston Martin Valkyrie Has Headlights Now" . Road & Track . Retrieved 14 June 2017 .
+↑ Westbrook, Justin T. (11 July 2017). "Aston Martin Has Updated The Valkyrie To Be Even More Unbelievable" . Jalopnik . Retrieved 12 July 2017 .
+↑ Newey, Adrian (2017). "Epilogue". How to Build a Car . HarperCollins. the green painted surfaces of that model are effectively Aston under the direction of Miles Nurnberger, while the black surfaces of canopy, rear wing and everything below the waistline are ours
+↑ "Aston Martin Valkyrie's high-tech cabin leaked" . The Week (UK ed.). 20 June 2017. Archived from the original on 20 June 2017 . Retrieved 20 June 2017 .
+↑ King, Alanis (24 May 2017). "The Aston Martin Valkyrie Won't Let You Get Fat" . Jalopnik . Retrieved 13 June 2017 .
+↑ Edelstein, Stephen (25 May 2017). "Aston Martin will 3D-scan drivers' bodies to make custom seats for the Valkyrie" . Digital Trends . Retrieved 15 June 2017 .
+↑ Saiidi, Uptin (23 May 2017). "Aston Martins upcoming car will 3-D scan your body for the driver seat" . CNBC . Retrieved 15 June 2017 .
+↑ "ASTON MARTIN VALKYRIE - THE ULTIMATE HYBRID POWERTRAIN FOR THE ULTIMATE HYPERCAR" . media.astonmartin.com .
+↑ "Aston Martin Valkyrie - The Ultimate Hybrid Powertrain for the Ultimate Hypercar" . 1 March 2019.
+↑ Wren, Wesley (23 June 2017). "Report: Aston Martin's Valkyrie will have 1,130 hp, weigh just over a ton" . Autoweek . Retrieved 23 June 2017 .
+↑ "2018 Aston Martin Valkyrie" . TopSpeed.com . 13 December 2018 . Retrieved 5 January 2019 . [ dead link ]
+↑ "Aston Martin Valkyrie - Engine View" . Motor1.com . Retrieved 9 March 2017 .
+↑ "Otherworldly Performance" . Aston Martin . Retrieved 13 May 2018 .
+↑ "Aston Martin Valkyrie: specs, price and full details" . Evo . 9 February 2018. Archived from the original on 4 June 2018 . Retrieved 13 May 2018 .
+↑ "Michelin chosen as official tyre supplier for Aston Martin Valkyrie hypercar" . Michelin Media . 7 March 2017 . Retrieved 8 March 2017 .
+↑ Lee, Kristen (6 July 2017). "Flipping Your Aston Martin Valkyrie Will Make Aston Very Mad" . Jalopnik . Retrieved 12 July 2017 .
+↑ Padeanu, Adrian (2 August 2018). "Mercedes-AMG Won't Allow Project One Owners To Flip Their Cars" . Motor1.com . Retrieved 12 November 2018 .
+1 2 Sweney, Mark (7 January 2022). "Aston Martin will miss profit target by £15m after Valkyrie delivery failings" . The Guardian .
+1 2 Pattni, Vijay (15 November 2017). "Behold: the 250mph Aston Martin Valkyrie AMR Pro" . Top Gear . Retrieved 30 December 2017 .
+↑ Krok, Andrew (16 November 2017). "Aston Martin Valkyrie AMR Pro is the most insane Aston yet" . RoadShow by CNET . Retrieved 30 December 2017 .
+1 2 "Aston Martin Valkyrie AMR Pro: Redefining the limits of performance" . Aston Martin . 16 November 2017 . Retrieved 30 December 2017 .
+↑ Misoyannis, Alex (12 August 2021). "2023 Aston Martin Valkyrie Spider revealed: F1-inspired hypercar loses its roof" . Drive . Retrieved 18 August 2023 .
+↑ "You could own* this Le Mans-spec Aston Martin Valkyrie LM" . Top Gear . 9 June 2025. Archived from the original on 9 June 2025 . Retrieved 12 June 2025 .
+↑ "Aston Martin Valkyrie LM Gives Customers Their Own Le Mans Car" . Motor1.com . Retrieved 12 June 2025 .
+↑ "Aston Martin To Bring Valkyrie Hypercar To FIA WEC & Le Mans" . www.dailysportscar.com . Retrieved 12 December 2023 .
+↑ "Aston Martin Has Cancelled Its Valkyrie-Based WEC Entry | CarThrottle" . www.carthrottle.com . 19 February 2020 . Retrieved 24 July 2025 .
+↑ "Aston Martin to return to Le Mans 24 Hours in 2025 with Valkyrie LMH" . www.autosport.com . 4 October 2023 . Retrieved 2 December 2023 .
+↑ Cotton, Andrew (5 February 2025). "Aston Martin Reveals Further Details of Valkyrie LMH" . Racecar Engineering . Retrieved 7 June 2026 .
+↑ Euwema, Davey (4 October 2023). "Heart of Racing to Run Valkyrie in IMSA, WEC in 2025 – Sportscar365" . sportscar365.com . Retrieved 14 March 2024 .
+↑ "James: Valkyrie AMR-LMH Race Debut a "Moving Target" " . sportscar365.com . 17 September 2024.
+↑ Vijay Pattni (22 March 2022). "Listen to the V12 Aston Martin Valkyrie scream at the Bahrain GP" . Top Gear . Retrieved 27 April 2022 .
+↑ Aston Martin (11 July 2016). "Aston Martin and Red Bull launch the AM-RB 001 Hypercar" . YouTube . Retrieved 15 February 2017 .
+↑ Glaysher, Mungo (28 November 2016). "Aston Martin reveals the AM-RB 001 to the Middle East" . Esquire (Middle East ed.) . Retrieved 16 February 2017 .
+↑ Perez, Jeff (1 February 2017). "Behold the beautiful Aston Martin AM-RB 001 hypercar in 41 photos" . Motor1.com . Archived from the original on 17 February 2017 . Retrieved 16 February 2017 .
+↑ Florea, Ciprian (20 February 2017). "Aston Martin AM-RB 001 Makes Global Debut In Toronto... Sort Of" . TopSpeed.com . Retrieved 21 February 2017 .
+↑ "Aston Martin to debut AM-RB hypercar and Vanquish S at Geneva motor show" . The National . 22 February 2017 . Retrieved 6 January 2025 .
+
+## External links
+Official website
+[TABLE] v | t | e | « | previous | — | Aston Martin | Lagonda | road car timeline, 2000s–present | Type | 2000s | 2010s | 2020s | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 0 | 1 | 2 | 3 | 4 | 5 | 6 | Owner | Ford | Independent | consortium | City Car | Cygnet | Luxury car | Rapide | Taraf | Grand Tourer | Vantage | Vantage | Vantage | DB7 | DB9 | DB11 | DB12 | Virage | V8 | Vanquish | DBS | Vanquish | DBS | Superleggera | Vanquish | Limited Production | One-77 | Vulcan | Victor | Valkyrie | Valhalla | DB10 | V12 Speedster | DBR22 | Valour | Valiant | Valen | DB7 Zagato | DB AR1 | Vanquish Zagato | V12 Zagato | DBS Zagato | DB9 Zagato | Virage Zagato | Vanquish Zagato | DBS GT Zagato | SUV | DBX | Concept Car | Twenty Twenty | CC100 | DP-100 | DB10 | Rapide Bertone Jet 2+2 | Vanquish Vision concept | Colour code | Aston Martin | badge | Lagonda | badge
+v
+t
+e
+[TABLE] Type | 2000s | 2010s | 2020s | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 0 | 1 | 2 | 3 | 4 | 5 | 6 | Owner | Ford | Independent | consortium | City Car | Cygnet | Luxury car | Rapide | Taraf | Grand Tourer | Vantage | Vantage | Vantage | DB7 | DB9 | DB11 | DB12 | Virage | V8 | Vanquish | DBS | Vanquish | DBS | Superleggera | Vanquish | Limited Production | One-77 | Vulcan | Victor | Valkyrie | Valhalla | DB10 | V12 Speedster | DBR22 | Valour | Valiant | Valen | DB7 Zagato | DB AR1 | Vanquish Zagato | V12 Zagato | DBS Zagato | DB9 Zagato | Virage Zagato | Vanquish Zagato | DBS GT Zagato | SUV | DBX | Concept Car | Twenty Twenty | CC100 | DP-100 | DB10 | Rapide Bertone Jet 2+2 | Vanquish Vision concept | Colour code | Aston Martin | badge | Lagonda | badge
+Twenty Twenty
+CC100
+DP-100
+DB10
+Rapide Bertone Jet 2+2
+Vanquish Vision concept
+Aston Martin badge
+Lagonda badge
